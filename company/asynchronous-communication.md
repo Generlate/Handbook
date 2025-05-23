@@ -50,15 +50,15 @@ Decisions are made in artifacts. While decisions can be initiated or discussed i
 
 Even though we use artifacts to communicate over time, it is important to note that they are not sources of truth. They are used during the creation and production process and are extremely rich in context, however, the final conclusion and what we share with everyone else must live in one of our [sources of truth](../communication/index.md#sources-of-truth). The information in these places is expected to be accurate and up-to-date.
 
-And remember: we are handbook-first. Google Docs, RFCs, GitHub issues, and Slack conversations are not considered sources of truth—they are ephemeral scratchpads in which decisions can be made, but nobody should be expected to read every RFC to learn how to do something. Regardless of where a decision was made (be it one of the artifacts or a meeting), it must be committed to the handbook.
+And remember: we are handbook-first. Google Docs, RFCs, GitHub issues, and Discord conversations are not considered sources of truth—they are ephemeral scratchpads in which decisions can be made, but nobody should be expected to read every RFC to learn how to do something. Regardless of where a decision was made (be it one of the artifacts or a meeting), it must be committed to the handbook.
 
-#### Slack
+#### Discord
 
-Slack is our [team chat](../communication/team_chat.md) and a big part of our day-to-day workflow, however, it is not one of our sources of truth. Because most of our channels are public and open to everyone to see, supporting our value of being [open and transparent](./values.md#open-and-transparent), Slack tends to be our default method of communication.
+Discord is our [team chat](../communication/team_chat.md) and a big part of our day-to-day workflow, however, it is not one of our sources of truth. Because most of our channels are public and open to everyone to see, supporting our value of being [open and transparent](./values.md#open-and-transparent), Discord tends to be our default method of communication.
 
 You don’t have to join every open channel available, but if you do, be mindful of what to pay attention to and how much time you spend reading threads that might not be helpful to you or your work. This takes some time and we recommend talking to teammates to understand what works best for you.
 
-Slack can feel like a synchronous way of communication and people might feel they need to respond right away, but remember we are remote and async. Teammates should feel free to send messages to others at any time, rather than trying to guess what a convenient time would be for them, and they are also free to read messages whenever is convenient for them. There is no expectation that people will be immediately responsive.
+Discord can feel like a synchronous way of communication and people might feel they need to respond right away, but remember we are remote and async. Teammates should feel free to send messages to others at any time, rather than trying to guess what a convenient time would be for them, and they are also free to read messages whenever is convenient for them. There is no expectation that people will be immediately responsive.
 
 A good practice is to send one message with your request directly, instead of sending “[Hey, how’s it going](https://www.nohello.com/)?” and waiting for the other person to reply to send the actual message. That interrupts their work without communicating anything. If you have a quick question, just ask the question directly, and the person will respond asynchronously.
 
@@ -66,11 +66,11 @@ Be mindful:
 
 -   Use [threads](../communication/team_chat.md#use-threads-instead-of-channel-wide-responses) to respond to a message or continue a conversation about the same topic. This prevents everyone in the channel from getting notifications every time you post something. It makes it easier to share a thread for context when the conversation starts somewhere else too. It’s also more inclusive, allowing teammates to contribute to the discussion later. A best practice in any channel is titling your thread with: “Thread: [insert topic here]” and replying below in your thread what the context is.
 -   If a conversation takes place in a thread that will most likely end in a decision, be sure to notify those people who are affected, but not participating in it. They might have missed it or might be out at the moment. Be sure to share it with everyone and give some prudent time for them to read it. Remember we don’t expect everyone to be responsive right away.
--   A Slack thread is not an artifact. As soon as you realize that there's folks who could contribute to the discussion who aren't around or don't have visibility into it, it should move out of Slack.
--   Handles are a great way to notify people and teams. To avoid mass-notifying folks, it's best to tag the specific individuals who would be interested/affected by the conversation. And if you're not sure who to tag from a specific group, just ask. i.e. 'Should someone from Marketing Ops weigh in here?’ Avoid using the @channel and @here functions in Slack as little as possible, as there’s a strong possibility that teammates in the channel may be in time zones where they are asleep.
+-   A Discord thread is not an artifact. As soon as you realize that there's folks who could contribute to the discussion who aren't around or don't have visibility into it, it should move out of Discord.
+-   Handles are a great way to notify people and teams. To avoid mass-notifying folks, it's best to tag the specific individuals who would be interested/affected by the conversation. And if you're not sure who to tag from a specific group, just ask. i.e. 'Should someone from Marketing Ops weigh in here?’ Avoid using the @channel and @here functions in Discord as little as possible, as there’s a strong possibility that teammates in the channel may be in time zones where they are asleep.
 -   [Default to using public channels for work-related discussion](../communication/team_chat.md#avoid-private-messages). Even if you intend a message for someone specific, other team members may benefit from reading the discussion or may be able to contribute to it. If you have a question, you may get an answer more quickly from someone in your own time zone than if you DM someone outside of their working hours.
 
-Finally, remember Slack is _not_ a source of truth. Something said or mentioned in Slack, does not automatically make it true. It has to be documented and available for everyone to read.
+Finally, remember Discord is _not_ a source of truth. Something said or mentioned in Discord, does not automatically make it true. It has to be documented and available for everyone to read.
 
 <video width="1280" height="720" controls crossorigin>
   <source src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/how_to_async.mp4">
@@ -81,7 +81,7 @@ Finally, remember Slack is _not_ a source of truth. Something said or mentioned 
 
 One of the hardest things about async work is to be sure everyone who’s affected by your work can see it and knows it exists. Socializing decisions and information with other teams is hard. While artifacts like RFCs are wonderful for the directly involved or affected team members, they’re more things that folks have to pay attention to—or choose _not_ to pay attention to, which still takes time and mental energy. Unfortunately, we can’t always predict what information other team members may need. Think about how you might help other teams find the information they need.
 
-Use multimodal communication: Slack is busy and sometimes people miss meetings. If there’s something important to share, it’s better to default to over-communicating across multiple channels and platforms so that the message doesn’t slip through the cracks. For example, our new [PTO](../people-ops/submitting-time-off.md) policy was added to the handbook, announced in the company meeting, the handbook page was shared in #general and #people-ops and managers were encouraged to share in team meetings or 1:1s to ensure everyone gets the message.
+Use multimodal communication: Discord is busy and sometimes people miss meetings. If there’s something important to share, it’s better to default to over-communicating across multiple channels and platforms so that the message doesn’t slip through the cracks. For example, our new [PTO](../people-ops/submitting-time-off.md) policy was added to the handbook, announced in the company meeting, the handbook page was shared in #general and #people-ops and managers were encouraged to share in team meetings or 1:1s to ensure everyone gets the message.
 
 Get creative:
 
@@ -146,7 +146,7 @@ This is why we have different synchronous social activities that help us build c
 -   Monthly team bonding activities
 -   [Off site team meetings](../people-ops/travel.md)
 -   [Team gatherings and celebrations](../people-ops/celebrate.md)
--   [Social channels on Slack](../communication/team_chat.md#social)
+-   [Social channels on Discord](../communication/team_chat.md#social)
 
 When creating intentional synchronous meetings make sure they have a clear purpose and outcome, as well as an _agenda_. By writing down the purpose and agenda, we might also discover if it’d be more effective done asynchronously, or we might reinforce the value of the synchronous format. Furthermore, the agenda is where we should write down the topics and minutes: what was discussed, what did we conclude and what the next steps are.
 

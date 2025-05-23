@@ -2,7 +2,7 @@
 
 I (Austen Cabret) am the CEO of Generlate. This page describes my responsibilities and how to get what you need from me. It's intended to be helpful to our team and as a linkable reference to answer common questions (I don't expect everyone to [memorize](../usage.md#links) this page).
 
-My personal site is [slack.org](https://slack.org).
+My personal site is [discord.org](https://discord.org).
 
 ## What I'm thinking about
 

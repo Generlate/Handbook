@@ -1,6 +1,6 @@
 # Org Chart
 
-The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). EelBlue teammates can see a complete and up-to-date org chart for the entire company in [BambooHR]().
+The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR]().
 
 ## [Advertising]()
 
@@ -55,3 +55,5 @@ This org chart is generated automatically based on the contents of other handboo
     3. To add any other text or structure to this page, just insert it as you would normally. Only 3rd-level
          heading links (lines that start with ### and that have a link) are treated specially; all other content is
          preserved.
+
+<!--TODO: swap departments for Generlate's departments-->

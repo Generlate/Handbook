@@ -22,7 +22,7 @@ See our [careers page](https://boards.greenhouse.io/generlate91) for open roles 
 
 ## Contact
 
-Outreach and questions for the finance team can be asked in the #finance Slack channel, by reaching out to the finance@generlate.com email, or to the finance team members listed above directly.
+Outreach and questions for the finance team can be asked in the #finance Discord channel, by reaching out to the finance@generlate.com email, or to the finance team members listed above directly.
 
 ## Objectives
 

@@ -20,7 +20,7 @@ See our [careers page](https://boards.greenhouse.io/generlate91) for open roles 
 
 If you encounter a question at any point, we're here to help!
 
-Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Slack channels we listed in the matrix.
+Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Discord channels we listed in the matrix.
 
 **U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
 
@@ -48,7 +48,7 @@ Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d
     -   [Licenses](licenses.md)
     -   Guides on development, local setup, testing, best practices, etc. can be found in our "[Developing Generlate](https://docs.generlate.com/dev)" documentation.
 -   Tooling
-    -   [Configuring Zoom to send recordings to Slack automatically](configuring_zoom_recordings_to_slack_automatically.md)
+    -   [Configuring Zoom to send recordings to Discord automatically](configuring_zoom_recordings_to_discord.md)
 -   Infrastructure
     -   [Cloud environments](environments.md)
     -   [Deployments](deployments/index.md)
@@ -68,7 +68,7 @@ Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d
 
 ## Communication
 
-For a list of engineering relevant Slack channels to join see the [team chat](../communication/team_chat.md#engineering) page in the handbook.
+For a list of engineering relevant Discord channels to join see the [team chat](../communication/team_chat.md#engineering) page in the handbook.
 
 ## Repositories
 

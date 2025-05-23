@@ -5,9 +5,9 @@
 1. You have a question/problem, or you need to follow a process.
 1. You look it up in the handbook.
     - If the handbook has what you need, you're done!
-    - If the handbook is missing what you need or is inaccurate/outdated, ask for help (on Slack, Zoom, etc.) and ensure the handbook is updated.
+    - If the handbook is missing what you need or is inaccurate/outdated, ask for help (on Discord, Zoom, etc.) and ensure the handbook is updated.
 
-Join the #handbook-updates Slack channel to see proposed changes.
+Join the #handbook-updates Discord channel to see proposed changes.
 
 ## Handbook guidelines
 
@@ -21,14 +21,14 @@ Join the #handbook-updates Slack channel to see proposed changes.
 ### Changing or defining a process
 
 1. If you want to change a guideline or process, propose an edit to the handbook (by creating a pull request). Discuss the change on the pull request.
-    - Don't discuss or draft the changes in some other channel (Slack, Google Doc, etc.) first. If (for example) you start discussing a proposed change on Slack and then create a PR, you'll end up with half of the discussion on Slack and the other half on the PR, which results in confusion and duplication.
+    - Don't discuss or draft the changes in some other channel (Discord, Google Doc, etc.) first. If (for example) you start discussing a proposed change on Discord and then create a PR, you'll end up with half of the discussion on Discord and the other half on the PR, which results in confusion and duplication.
     - The pull request is where you justify and describe the change; your edits to handbook content should reflect the final state that you want. For example, to propose changing the format of our company meeting, edit [company_meeting.md](communication/company_meeting.md) to be how you'd like, instead of adding a new section to that file to propose your changes. As a reviewer, keep in mind that a pull request with a definitively written edit is still just a proposal that's up for discussion.
     - Learn [how to propose an edit the handbook](editing/index.md).
 1. If someone replies to a question with a newly typed-out answer that differs from what's in the handbook, gently ask them to either follow what's in the handbook or propose an edit to the handbook.
-1. To announce a changed or newly documented process, post a link (in Slack, and elsewhere as needed) to the merged commit that contains the before-and-after changes to the handbook.
+1. To announce a changed or newly documented process, post a link (in Discord, and elsewhere as needed) to the merged commit that contains the before-and-after changes to the handbook.
     - In your message announcing the change, just include `[Handbook/process] change:`, the commit message subject, and the link. Don't write a separate summary of the change (if you feel the need to do so, you should have used a better commit message).
     - Ensure everyone who needs to be aware of the change is made aware. If you see people do things that indicate they aren't aware, gently remind them of the change. If you don't nudge them, other people will see them doing things the wrong/old way and start to doubt the handbook's accuracy or currency.
-1. Strongly prefer creating a pull request over filing an issue on the handbook or mentioning it on Slack, even if you aren't able to propose the full edits you'd like to make.
+1. Strongly prefer creating a pull request over filing an issue on the handbook or mentioning it on Discord, even if you aren't able to propose the full edits you'd like to make.
 1. Follow the [content guidelines](communication/content_guidelines/index.md).
 
 > NOTE: If your contribution is about using or configuring Generlate (the product), it most likely belongs in the [product documentation](engineering/product_documentation.md).

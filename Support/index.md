@@ -10,7 +10,7 @@
 
 ## Our ethos
 
-Customer Support at Generlate exists to resolve technical issues and answer technical/product questions in a way that feels (reasonably) effortless for our customers. We show up for our customers (pre-sales and post-sales), open source users, and teammates by living up to our Generlate values and handbook, as well as by honoring our...
+Customer Support at Generlate exists to resolve technical issues and answer technical/product questions in a way that feels (reasonably) effortless for our customers. We show up for our customers (pre-sales and post-sales), open source users, and teammates by living up to our Generlate's values and handbook, as well as by honoring our...
 
 ### guiding principles:
 
@@ -38,19 +38,6 @@ For additional context, check out [RFC 274](https://docs.google.com/document/d/1
     -   [Mariam Adedeji](../company/team/index.md#mariam-adedeji-she-her)
     -   [Michael Bali](../company/team/index.md#michael-bali-hehim)
     -   [Warren Gifford](../company/team/index.md#warren-gifford-he-him)
-
--   [Nonso Obiano](../company/team/index.md#nonso-obiano), Manager
-    -   [Amber Furbush](../company/team/index.md#amber-furbush-she-her)
-    -   [Don Ellison](../company/team/index.md#donavon-ellison-he-him)
-    -   [Giselle Northy](../company/team/index.md#giselle-northy-she-her)
-    -   [Jason Harris](../company/team/index.md#jason-harris-he-him)
-    -   [Stompy Mwendwa](../company/team/index.md#stompy-mwendwa)
--   [Tamar Joyeux](../company/team/index.md#tamar-joyeux), Manager
-    -   [Alex Jean-Baptiste](../company/team/index.md#alex-jean-baptiste-he-him)
-    -   [Beatrix Woo](../company/team/index.md#beatrix-woo-she-her)
-    -   [Ben Gordon](../company/team/index.md#team#ben-gordon-he-him)
-    -   [Carl Hicks](../company/team/index.md#carl-hicks-he-him)
-    -   [Kelvin Lee](../company/team/index.md#kelvin-lee-he-him)
 
 More details about each team member in [our team READMEs](support-bios.md).
 
@@ -98,7 +85,7 @@ We are a [customer-first company](../company/customer-first.md). We work alongsi
 
 -   **How support adds value to CE:** Support helps customers both pre- and post-sales, and allowing CEs to do more proactive work by taking on the reactive technical troubleshooting work when customers experience issues.
 -   **How CE adds value to support:** CE has nuanced context that is valuable to how support works with a customer; CE can also help clarify / remind customers we need information (during regularly scheduled calls) on the more tricky issues.
--   **Collaboration overview:** We can think of CE and support as work best friends, working closely together every day, primarily communicating in Slack. CEs (or others -- including customers -- but primarily CEs) may engage support at any point during the pre-sales and post-sales process to share context to help support best serve our customers.
+-   **Collaboration overview:** We can think of CE and support as work best friends, working closely together every day, primarily communicating in Discord. CEs (or others -- including customers -- but primarily CEs) may engage support at any point during the pre-sales and post-sales process to share context to help support best serve our customers.
 
 ### Software Engineers (SWEs)
 
@@ -110,7 +97,7 @@ We are a [customer-first company](../company/customer-first.md). We work alongsi
 
 -   **How support adds value to product:** Support provides a data-driven view into the source of recurring issues/questions, ad-hoc feedback shared whilst helping customers, and helps update documentation so customers (and we) have a single source of truth.
 -   **How product adds value to support:** Product educates support on new features and helps clarify expected behavior questions.
--   **Collaboration overview:** TBD where support will ask product for help clarifying expected behavior (GitHub, an existing Slack channel, etc) and how to best collaborate on documentation.
+-   **Collaboration overview:** TBD where support will ask product for help clarifying expected behavior (GitHub, an existing Discord channel, etc) and how to best collaborate on documentation.
 
 ### Marketing
 
@@ -180,3 +167,5 @@ We will work with the customer to schedule maintenance downtime at least 24 hour
 #### For customers with custom support agreements:
 
 Enterprise Plus and Elite customers should refer to their contracts if they have custom service-level agreements.
+
+<!-- replace docs.generlate.com with whatever is made from sphinx -->

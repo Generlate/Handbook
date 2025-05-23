@@ -18,21 +18,10 @@ Visual Studio 2019 is recommended, Generlate is untested on other development en
 
 ## The Plan
 
-The plan for Generlate is to create an innovative tool that will automate the majority of processes included in modern building design. Development of the application is published on Youtube at https://www.youtube.com/channel/UCQFeRy_NDvUsA0VmuJNBUYQ
-
-# Main Features To Come
-
--   ML image generator
--   ML model generator
--   Trait optomizer
--   Object recognition
--   Metaverse Integration
--   Export to common architecture file types: .ai, .ps, .3dm, .dwg, etc.
--   Integrated libraries to replace field experts
--   visual scripting
+The plan for Generlate is to create a tool that will automate the majority of processes included in modern building design. Development of the application is published on Youtube at http://www.youtube.com/@generlate/videos
 
 # Short Term Goals
 
 Roadmap at [Roadmap](Roadmap.md)
 
-We would like to have a proof of concept by 2023. This will probably include a basic ML algorithm, which can produce editable models.
+We would like to have a proof of concept by 2026. This will probably include a basic ML algorithm, which can produce editable models.

@@ -7,7 +7,7 @@ Well, THANK YOU. Generlate is making architectural design easier and any help is
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the Generlate [Code of Conduct](https://github.com/Generlate/Generlate/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to austencabret@Generlate.com.
+This project and everyone participating in it is governed by the Generlate [Code of Conduct](https://github.com/Generlate/Generlate/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to austencabret@generlate.com.
 
 ## What should I know before getting started?
 
@@ -68,7 +68,7 @@ In general, all pull requests must:
 
 Anyone may participate in peer review which is expressed by comments in the pull request. Typically reviewers will review the code for obvious errors, as well as test out the patch set and opine on the technical merits of the patch. Repository maintainers take into account the peer review when determining if there is consensus to merge a pull request.
 
-Maintainers reserve the right to weigh the opinions of peer reviewers using common sense judgement and also may weight based on meritocracy: Those that have demonstrated a deeper commitment and understanding towards EelBlue (over time) or have clear domain expertise may naturally have more weight, as one would expect in all walks of life.
+Maintainers reserve the right to weigh the opinions of peer reviewers using common sense judgement and also may weight based on meritocracy: Those that have demonstrated a deeper commitment and understanding towards Generlate (over time) or have clear domain expertise may naturally have more weight, as one would expect in all walks of life.
 
 # Copyright
 
