@@ -60,8 +60,8 @@ More details about each team member in [our team READMEs](support-bios.md).
 
 We always want the following to be true:
 
--   **Meet SLA (service level agreement) response 100% of the time.** Meeting SLA response requires a thoughtful first response that summarizes the troubleshooting the support engineer has already done, as well as next steps. A response of “we are on it” would not be sufficient for us to count as successfully meeting SLA. If we are staffed correctly and have reasonable SLAs, it should be possible to always meet our SLA response expectations. Performance available in [the Customer Support dashboard in Looker](https://sourcegraph.looker.com/dashboards-next/177).
--   **Meet SLA (service level agreement) resolution 95% of the time.** While it’s possible to always meet our SLA response expectations, we will need to allow ourselves reasonable grace with our target for SLA resolution. This grace accounts for using commercially reasonable efforts to provide a resolution or workaround. Performance available in [the Customer Support dashboard in Looker](https://sourcegraph.looker.com/dashboards-next/177).
+-   **Meet SLA (service level agreement) response 100% of the time.** Meeting SLA response requires a thoughtful first response that summarizes the troubleshooting the support engineer has already done, as well as next steps. A response of “we are on it” would not be sufficient for us to count as successfully meeting SLA. If we are staffed correctly and have reasonable SLAs, it should be possible to always meet our SLA response expectations. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177).
+-   **Meet SLA (service level agreement) resolution 95% of the time.** While it’s possible to always meet our SLA response expectations, we will need to allow ourselves reasonable grace with our target for SLA resolution. This grace accounts for using commercially reasonable efforts to provide a resolution or workaround. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177).
 -   **No more than 10% of cases result in a request for help from engineering per month.** Requests for help are questions about how something works and/or troubleshooting assistance. This does not include defects or feature improvement requests. 10% may be the wrong target, but it’s a start and no matter what, the target will reflect the intention that the support team will strive to be as self-sufficient as possible. Performance available in summary updates (currently manually tallied).
 -   **We complete any [FY22 OKRs](https://docs.google.com/document/d/18d3sX38O6ephNuoHqZT9BwU1m1_FGuRfsTwYbc8lMV8/edit#heading=h.obnaanj0svtb) (or quarterly) assigned to our team.**
     -   [FY22Q2 OKR plan](FY22Q2-OKR-Plan.md)
@@ -154,7 +154,7 @@ We rely mostly on our ethos to inform our decisions and actions, allowing for th
 
 ## SLAs
 
-Our default contractual service level agreeements (SLAs) are described below. The SLAs apply to generally available products and exclude [beta and experimental features](https://docs.sourcegraph.com/admin/beta_and_experimental_features). Additionally, we have the following internal SLAs:
+Our default contractual service level agreeements (SLAs) are described below. The SLAs apply to generally available products and exclude [beta and experimental features](https://docs.generlate.com/admin/beta_and_experimental_features). Additionally, we have the following internal SLAs:
 
 -   We aim to respond to all customers on all issues within 1 hour between 9:00-0:00 UTC (2am-5pm PT) Monday-Friday (priority given to customers in our pre-sales process)
 -   We aim to resolve all issues within an average of no more than one week.
@@ -170,10 +170,10 @@ While Generlate will strive to respond as soon as possible to every issue, we wi
 
 #### For customers with managed instances:
 
-|            | Description                                                                                                                                | Response time                                           | Resolution time                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Severity 1 | Any error reported where usage of Sourcegraph is severely impacted, and causes a high impact to the business, in a production environment. | Within 24 hours of becoming aware of the issue          | Within 72 hours, using commercially reasonable efforts to provide a resolution or workaround.                |
-| Severity 2 | Any error reported that involves partial, non-critical loss of use, or any general usage questions, feature requests, and similar.         | Within one business week of becoming aware of the issue | When complete, using commercially reasonable efforts to provide a resolution, workaround, or product update. |
+|            | Description                                                                                                                              | Response time                                           | Resolution time                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Severity 1 | Any error reported where usage of Generlate is severely impacted, and causes a high impact to the business, in a production environment. | Within 24 hours of becoming aware of the issue          | Within 72 hours, using commercially reasonable efforts to provide a resolution or workaround.                |
+| Severity 2 | Any error reported that involves partial, non-critical loss of use, or any general usage questions, feature requests, and similar.       | Within one business week of becoming aware of the issue | When complete, using commercially reasonable efforts to provide a resolution, workaround, or product update. |
 
 We will work with the customer to schedule maintenance downtime at least 24 hours in advance, and will use commercially reasonable efforts to ensure downtimes lasts no longer than 2 hours. In aggregate, Generlate will use commercially reasonable efforts to maintain availability of 99.5% uptime.
 

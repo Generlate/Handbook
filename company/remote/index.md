@@ -46,12 +46,12 @@ Some people prefer to work in a really flexible way, which can sometimes mean th
 
 There is **no** expectation that people will be responsive over the weekend/vacation/evening/etc except some circumstances that do require this, but generally there will be early/predictable notice — e.g., on-call duty.
 
-Tip: [Configure](../../engineering/github-notifications/index.md#custom-routing) GitHub notifications to send EelBlue related ones to your work email.
+Tip: [Configure](../../engineering/github-notifications/index.md#custom-routing) GitHub notifications to send Generlate related ones to your work email.
 After that it is just a matter of not checking your work email (or Slack) at times that you don’t want to do work. Slack has settings to pause notifications, and you can remove work email from your phone if that would help you not check it during non-work times.
 
 ## Helpful links
 
--   [Our journey to all-remote](https://about.sourcegraph.com/blog/our-journey-to-all-remote)
+-   [Our journey to all-remote](https://about.generlate.com/blog/our-journey-to-all-remote)
 -   [Tips for working remotely](tips.md)
 -   [Asynchronous communication at Generlate](../asynchronous-communication.md)
 -   [Teammate-recommended productivity hacks](teammate-recommended_productivity_hacks.md)

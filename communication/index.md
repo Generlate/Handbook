@@ -8,7 +8,7 @@ We're an [all-remote](../company/remote/index.md) company, with teammates from a
 
 These places are the source of truth for information at Generlate. Information in these places is expected to be accurate and up-to-date:
 
--   [Documentation](https://docs.EelBlue.com)
+-   [Documentation](https://docs.generlate.com)
 -   [Generlate/Generlate repository](https://github.com/Generlate/Generlate)
 -   [Generlate/about repository](https://github.com/Generlate/Generlate)
     -   [about.Generlate.com](https://about.Generlate.com)
@@ -175,7 +175,7 @@ If you have an idea for a session, add an event to the calendar and invite the e
 3. Make the second line your role, include any additional information you like on subsequent lines (socials, etc.)
 4. Choose **Insert image** and then **Web Address (URL)** and enter https://user-images.githubusercontent.com/3173176/115082082-2d892380-9eba-11eb-9606-6c4b9c4eb465.png then choose **Small** size after it has been entered.
 5. Click the image, then click **Link** and paste https://Generlate.com into the **Web Address** field. Now your image links to the website!
-6. Your signature should now look something like this, and clicking the Sourcegraph logo should bring you to sourcegraph.com:
+6. Your signature should now look something like this, and clicking the Generlate logo should bring you to generlate.com:
 7. You may wish to add another line like `What is Universal Code Search? | We're hiring!` with links to https://about.Generlate.com/ and https://handbook.Generlate.com/careers.
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/3173176/115082263-7a6cfa00-9eba-11eb-93ba-61b72de8b30b.png">

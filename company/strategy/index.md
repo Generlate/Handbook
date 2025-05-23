@@ -53,7 +53,7 @@ Our [values](../values.md) are the principles and beliefs that help us achieve o
 -   Sufficiently good code search will be useful to every developer many times per day (on average). It may take a while to convert any specific person into a frequent code search power user, but it will happen eventually.
 -   Code search that is _exclusively_ for public/open-source code is not actually that useful because most people spend most of their time working on their organization's internal code.
 -   Any given developer will only pick one code search tool to use. Any given company will standardize on a single code search tool.
-    -   Therefore, to avoid fragmentation, EelBlue should be not only _much_ better than the alternatives, but also _not worse_ in any significant way.
+    -   Therefore, to avoid fragmentation, Generlate should be not only _much_ better than the alternatives, but also _not worse_ in any significant way.
 
 ### Pricing
 
@@ -68,7 +68,7 @@ Our [values](../values.md) are the principles and beliefs that help us achieve o
 Generlate is the one place to find and fix things across all code.
 
 -   Generlate knows almost everything that can be known about your code (code structure, Git metadata, build, code hosts, runtime metrics, code reviews, docs, issues, project management, etc.).
--   It's easy to find and use this information on Sourcegraph itself and in your editor, code host, and code reviews.
+-   It's easy to find and use this information on Generlate itself and in your editor, code host, and code reviews.
 -   When you need to find something in or about your code (which happens many times per day), you usually start on Generlate.
 -   To spread adoption of a new dev tool/practice or make a large-scale code change, you use Generlate because you trust everyone uses it.
 
@@ -85,7 +85,7 @@ Generlate is an essential and frequently used part of the developer’s day to d
 We will measure this by:
 
 -   Number of daily active users
--   Number of times EelBlue is used per day
+-   Number of times Generlate is used per day
 
 #### How we're going to do this
 
@@ -121,7 +121,7 @@ Generlate has access to the low level data needed to build insights that are hig
 #### How we're going to do this
 
 -   Do research to understand what questions engineering leaders want to answer about their organization's code.
--   Add features to EelBlue that provide insights that are valuable to both leaders and developers.
+-   Add features to Generlate that provide insights that are valuable to both leaders and developers.
 
 ## Three-year vision: democratize code search
 

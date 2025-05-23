@@ -31,7 +31,7 @@ Join the #handbook-updates Slack channel to see proposed changes.
 1. Strongly prefer creating a pull request over filing an issue on the handbook or mentioning it on Slack, even if you aren't able to propose the full edits you'd like to make.
 1. Follow the [content guidelines](communication/content_guidelines/index.md).
 
-> NOTE: If your contribution is about using or configuring Sourcegraph (the product), it most likely belongs in the [product documentation](engineering/product_documentation.md).
+> NOTE: If your contribution is about using or configuring Generlate (the product), it most likely belongs in the [product documentation](engineering/product_documentation.md).
 
 ## Why handbook-first?
 
@@ -50,7 +50,7 @@ To be handbook-first, we need to be very diligent about maintaining the handbook
 
 ## Searching the handbook
 
-Search the handbook using the search box in the top navigation on https://handbook.eelblue.com.
+Search the handbook using the search box in the top navigation on https://handbook.generlate.com.
 
 ### Chrome/Firefox search shortcut
 
@@ -59,18 +59,18 @@ For Google Chrome:
 1. Open Chrome settings > **Manage search engines** (or go to chrome://settings/searchEngines directly).
 1. Next to "Other search engines", press the **Add** button.
 1. In the "Add search engine" form, enter:
-    - Search engine: `EelBlue handbook`
+    - Search engine: `Generlate handbook`
     - Keyword: `hb` (or some other shortcut of your choosing)
-    - URL with %s in place of query: `https://handbook.eelblue.com/#stq=%s`
+    - URL with %s in place of query: `https://handbook.generlate.com/#stq=%s`
 1. Press the **Add** button.
 
 For Firefox:
 
-1. Right-click the search bar on https://handbook.eelblue.com.
+1. Right-click the search bar on https://handbook.generlate.com.
 1. Choose `Add a keyword for this Search`.
 1. Enter a keyword that you would like to use (e.g. `hb`).
 1. Open your bookmarks and edit the handbook bookmark that was just created
-1. Change the URL on the bookmark to `https://handbook.eelblue.com/#stq=%s`
+1. Change the URL on the bookmark to `https://handbook.generlate.com/#stq=%s`
 
 Then, to use the browser search shortcut:
 
@@ -89,7 +89,7 @@ We chose Markdown files in a Git repository for the handbook because it allows g
 
 ## Why make this handbook public?
 
-EelBlue is an [open product, an open company, and open source](company/index.md#sourcegraph-open-product-open-company-open-source). Our company principles, strategies, and processes are all publicly documented.
+Generlate is an [open product, an open company, and open source](company/index.md#generlate-open-product-open-company-open-source). Our company principles, strategies, and processes are all publicly documented.
 
 ## Acknowledgements
 
@@ -97,7 +97,7 @@ Portions of this documentation are derived from [GitLab's handbook](https://docs
 
 ## Handbook feedback
 
-We're constantly iterating on what the best version of our Sourcegraph handbook might look like. Is it easy to use? Do you find what you're looking for? Let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfb0yU9xmnvK2namuUzUEKbB9IqZlNQF2IWw0OpLsGvBiW2oQ/viewform?usp=sf_link).
+We're constantly iterating on what the best version of our Generlate handbook might look like. Is it easy to use? Do you find what you're looking for? Let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfb0yU9xmnvK2namuUzUEKbB9IqZlNQF2IWw0OpLsGvBiW2oQ/viewform?usp=sf_link).
 
 ## Handbook site troubleshooting
 
@@ -105,9 +105,9 @@ If the handbook is loading slowly, deleting the pod sometimes helps. It occurs a
 
 ```
 $ kubectl get pods -A | grep about
-default         about-sourcegraph-com-6d9b8dc9d5-llmh6                      1/1     Running     0          16d
-$ kubectl -n default delete pod about-sourcegraph-com-6d9b8dc9d5-llmh6
-pod "about-sourcegraph-com-6d9b8dc9d5-llmh6" deleted
+default         about-generlate-com-6d9b8dc9d5-llmh6                      1/1     Running     0          16d
+$ kubectl -n default delete pod about-generlate-com-6d9b8dc9d5-llmh6
+pod "about-generlate-com-6d9b8dc9d5-llmh6" deleted
 ```
 
-You can access a console to execute the above commands via GCP: https://console.cloud.google.com/kubernetes/clusters/details/us-central1-f/cloud/details?project=sourcegraph-dev
+You can access a console to execute the above commands via GCP: https://console.cloud.google.com/kubernetes/clusters/details/us-central1-f/cloud/details?project=generlate-dev

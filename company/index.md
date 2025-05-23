@@ -1,7 +1,7 @@
 # About Generlate
 
 -   [about.Generlate.com](https://about.Generlate.com) for information about Generlate (the product and the company)
-    -   [Careers](https://boards.greenhouse.io/sourcegraph91)
+    -   [Careers](https://boards.greenhouse.io/generlate91)
     -   [News](https://about.Generlate.com/news)
 -   [Generlate handbook](../index.md#company)
 -   [All-remote](remote/index.md)
@@ -14,7 +14,7 @@
 
 # Generlate: open product, open company, open source
 
-As part of making Generlate open source, we now build Eelblue ([product direction](../company/strategy/index.md) and [issues](http://github.com/Generlate/Generlate/issues/)) as an open product, and open company. [Our website](https://github.com/Generlate/about) and [documentation](https://github.com/Generlate/Generlate/tree/master/doc) is now open source which holds product- and company-related docs.
+As part of making Generlate open source, we now build Generlate ([product direction](../company/strategy/index.md) and [issues](http://github.com/Generlate/Generlate/issues/)) as an open product, and open company. [Our website](https://github.com/Generlate/about) and [documentation](https://github.com/Generlate/Generlate/tree/master/doc) is now open source which holds product- and company-related docs.
 
 Here’s how we define these terms:
 

@@ -1,1 +1,43 @@
 Generlate Roadmap
+
+-   docs
+-   ML model generator
+-   change auth to auth0
+-   add sphinx documentation
+-   unreal engine or blender interface
+-   supabase database
+-   update logo
+-   .usd support
+-   LLM
+-   cloudflare
+-   color themed based off of user's system preferences
+-   pricing / API
+-   graphql?
+-   building code consultant
+-   common sense machines and other 3rd party integrations?
+-   VR interface / support
+-   better datasets
+-   web crawler
+-   dataset cleaner
+-   dataset processor
+-   file system based on metadata/tags
+-   ML Pipeline
+-   Unreal Engine / Blender integration
+-   data analysis / tagging pipeline
+-   perforce integration
+-   incorporate the transformer architecture
+-   consider RAG and other ML architectures
+-   Consider Azure/AWS/Nvidia AI features
+-   Unreal Engine headless / API
+-   Azure Devops
+-   installer or simpler installation
+-   gaussian splats?
+-   more file types? (.obj, .usd, fbx)
+-   faster generation speed
+-   call system (like /generlate: "plant") to differentiate text to generations
+-   ML image generator
+-   Trait optomizer
+-   Object recognition
+-   Metaverse Integration
+-   Integrated libraries to replace field experts
+-   visual scripting

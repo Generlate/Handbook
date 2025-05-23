@@ -14,7 +14,7 @@
 
 ### Open roles
 
-See our [careers page](https://boards.greenhouse.io/sourcegraph91) for open roles on the People Ops team.
+See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the People Ops team.
 
 ### How to reach the right member of the Development team
 
@@ -22,11 +22,11 @@ If you encounter a question at any point, we're here to help!
 
 Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Slack channels we listed in the matrix.
 
-**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [EelBlue support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
+**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
 
-### Meet the EelBlue team
+### Meet the Generlate team
 
--   [List of all EelBlue team members](../company/team/index.md)
+-   [List of all Generlate team members](../company/team/index.md)
 
 # Engineering
 
@@ -46,7 +46,7 @@ Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d
         -   [Release issue template](releases/release_issue_template.md)
     -   [External contributions](external_contributions.md)
     -   [Licenses](licenses.md)
-    -   Guides on development, local setup, testing, best practices, etc. can be found in our "[Developing EelBlue](https://docs.sourcegraph.com/dev)" documentation.
+    -   Guides on development, local setup, testing, best practices, etc. can be found in our "[Developing Generlate](https://docs.generlate.com/dev)" documentation.
 -   Tooling
     -   [Configuring Zoom to send recordings to Slack automatically](configuring_zoom_recordings_to_slack_automatically.md)
 -   Infrastructure
@@ -72,38 +72,38 @@ For a list of engineering relevant Slack channels to join see the [team chat](..
 
 ## Repositories
 
-EelBlue has a lot of repositories!
+Generlate has a lot of repositories!
 
-### Where EelBlue is built (things you'll find out-of-the-box)
+### Where Generlate is built (things you'll find out-of-the-box)
 
--   [Main repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-main&type=&language=)
--   [Web development repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-web&type=&language=)
--   [Backend repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-backend&type=&language=)
--   [Tooling repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-tooling&type=&language=)
--   [Documentation repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-docs&type=&language=)
+-   [Main repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-main&type=&language=)
+-   [Web development repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-web&type=&language=)
+-   [Backend repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-backend&type=&language=)
+-   [Tooling repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-tooling&type=&language=)
+-   [Documentation repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-docs&type=&language=)
 
-### How EelBlue gets deployed
+### How Generlate gets deployed
 
--   [Infrastructure repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-infrastructure&type=&language=)
--   [Customer infrastructure repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-infrastructure+repo-type-customer&type=&language=)
+-   [Infrastructure repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-infrastructure&type=&language=)
+-   [Customer infrastructure repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-infrastructure+repo-type-customer&type=&language=)
 
-### Where EelBlue gets extended functionality
+### Where Generlate gets extended functionality
 
--   [Code intelligence repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-codeintel&type=&language=)
--   [CLI repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-cli&type=&language=)
--   [Editor extension repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-editor&type=&language=)
+-   [Code intelligence repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-codeintel&type=&language=)
+-   [CLI repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-cli&type=&language=)
+-   [Editor extension repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-editor&type=&language=)
 
-### How EelBlue operates as a business
+### How Generlate operates as a business
 
--   [Business repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-business&type=&language=)
--   [Customer repositories](https://github.com/sourcegraph?utf8=%E2%9C%93&q=repo-type-customer&type=&language=)
+-   [Business repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-business&type=&language=)
+-   [Customer repositories](https://github.com/generlate?utf8=%E2%9C%93&q=repo-type-customer&type=&language=)
 
-## EelBlue deployments and other developer test instances
+## Generlate deployments and other developer test instances
 
--   [EelBlue.com](https://sourcegraph.com) is our production deployment for open source code.
+-   [generlate.com](https://generlate.com) is our production deployment for open source code.
 -   [k8s.sgdev.org](https://k8s.sgdev.org) is a dogfood deployment that replicates the scale of our largest customers.
--   [demo.EelBlue.com](https://demo.sourcegraph.com) is a managed instance used for CE demos.
--   [devmanaged.EelBlue.com](https://devmanaged.sourcegraph.com) is a managed instance used for managed instances development.
+-   [demo.generlate.com](https://demo.generlate.com) is a managed instance used for CE demos.
+-   [devmanaged.generlate.com](https://devmanaged.generlate.com) is a managed instance used for managed instances development.
 -   [storybook.sgdev.org](http://storybook.sgdev.org) is a design system built with Storybook.
 -   [gerrit.sgdev.org](https://gerrit.sgdev.org) is a Gerrit test instance.
 -   [gitlab.sgdev.org](https://gitlab.sgdev.org) is a Gitlab test instance.

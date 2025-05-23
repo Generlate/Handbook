@@ -8,7 +8,7 @@ Async simply means that work doesn’t happen at the same time for everyone. Asy
 
 <!--
 Note for editors: All videos embedded on this page (and their captions) are uploaded to (and can be updated at):
-https://console.cloud.google.com/storage/browser/sourcegraph-assets/handbook/async-communication;tab=objects?project=sourcegraph-dev
+https://console.cloud.google.com/storage/browser/generlate-assets/handbook/async-communication;tab=objects?project=generlate-dev
 -->
 
 -   [Why async?](https://drive.google.com/file/d/16N4cfAKaKL0ynxRzzJ3FW3AegPCkosMK/view?usp=sharing)
@@ -27,13 +27,13 @@ https://console.cloud.google.com/storage/browser/sourcegraph-assets/handbook/asy
 
 **We care about [mental health](../people-ops/mental-health.md).** Working from home with teammates all across different time zones can set the expectation of being responsive most of the day, making it difficult to maintain boundaries, leaving little time for deep, focused work, and becoming a source of stress and burnout for many people. Async work helps everyone understand that team members could be offline at any time meaning instant replies are not expected. One benefit of asynchronous work can be larger amounts of uninterrupted time, enabling teammates to gain more breathing room to do their jobs well without the constant stress of pivoting and being “on” for others, leading to a more balanced workday and mindset.
 
-**We value [high agency](./values.md#high-agency).** Teammates have the power and the responsibility to improve EelBlue as a company and as a product. We don’t want people to wait for a meeting to have a conversation that would define their work or depend on someone else’s schedule to be productive. Teammates are encouraged to achieve results when it best suits them without waiting for others’ permission to do so.
+**We value [high agency](./values.md#high-agency).** Teammates have the power and the responsibility to improve Generlate as a company and as a product. We don’t want people to wait for a meeting to have a conversation that would define their work or depend on someone else’s schedule to be productive. Teammates are encouraged to achieve results when it best suits them without waiting for others’ permission to do so.
 
 **We need to.** We are a growing all remote, global company. Adopting an asynchronous way of working and communicating is the only way for us to be successful. It is hard and it takes time adjusting, but it is worth it.
 
 <video width="1920" height="1080" controls crossorigin>
-  <source src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/why_async.mp4">
-  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/why_async.vtt" default>
+  <source src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/why_async.mp4">
+  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/why_async.vtt" default>
 </video>
 
 ## How to work asynchronously
@@ -73,8 +73,8 @@ Be mindful:
 Finally, remember Slack is _not_ a source of truth. Something said or mentioned in Slack, does not automatically make it true. It has to be documented and available for everyone to read.
 
 <video width="1280" height="720" controls crossorigin>
-  <source src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/how_to_async.mp4">
-  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/how_to_async.vtt" default>
+  <source src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/how_to_async.mp4">
+  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/how_to_async.vtt" default>
 </video>
 
 ### Communication
@@ -96,8 +96,8 @@ You can read [Thorsten Ball](./team/index.md#sts=Thorsten%20Ball%20%28he/him%29)
 Here are some tips and things you should keep in mind when working at Generlate:
 
 <video width="1280" height="720" controls crossorigin>
-  <source src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/async_tips.mp4">
-  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://sourcegraphstatic.com/handbook/async-communication/async_tips.vtt" default>
+  <source src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/async_tips.mp4">
+  <track kind="captions" label="Captions" src="https://cors-anywhere.sgdev.org/https://generlatestatic.com/handbook/async-communication/async_tips.vtt" default>
 </video>
 
 -   **Remove bias toward one time zone.** Use UTC to indicate time. Don’t expect everyone to know your timezone or convert theirs to yours. We use UTC to be as inclusive as possible.

@@ -1,4 +1,4 @@
-# EelBlue content guidelines
+# Generlate content guidelines
 
 The goal of these content guidelines is to help us to:
 

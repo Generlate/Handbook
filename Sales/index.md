@@ -27,7 +27,7 @@
 The Sales team represents us and our values to customers, bringing back dollars and feedback to help us grow.
 
 -   [Account Tiers](https://docs.google.com/document/d/14420oruJWMLKj67ObZiDzRK5GpHmRWXDjlDbH7L6T00/edit?ts=5f7e4023#heading=h.qdguquy7dt7i)
--   [Pricing](https://about.sourcegraph.com/pricing)
+-   [Pricing](https://about.generlate.com/pricing)
 -   [Common questions from prospective customers](common_customer_questions.md)
 -   [Sales team onboarding](onboarding/index.md)
 -   [SDR Team](sdrteam.md)
@@ -43,7 +43,7 @@ The Sales team represents us and our values to customers, bringing back dollars 
 
 -   [Transactions](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=0)
 -   [FY21 plan](https://docs.google.com/spreadsheets/d/1EkZ7O69-2jbgtacoFDrY8L6rP73Hlqp_syyVCnmGAFA/edit#gid=1071026049)
--   [Looker dashboard](https://sourcegraph.looker.com/browse/boards/2)
+-   [Looker dashboard](https://generlate.looker.com/browse/boards/2)
 
 ## Goals
 
@@ -82,7 +82,7 @@ Not all team members are reflected here yet. If you see yourself missing, please
 
 See [roles](./roles/index.md) page.
 
-## How sales works with other Sourcegraph teams
+## How sales works with other Generlate teams
 
 ### [Customer engineering](../support/index.md) (for customer support)
 
@@ -97,10 +97,10 @@ See [finance definitions](../finance/index.md#definitions) for definitions of fi
 
 ### Customer
 
-A customer is an organization with a Sourcegraph subscription contract that has not ended.
+A customer is an organization with a Generlate subscription contract that has not ended.
 
 1. We can only publicly mention the names of customers who have explicitly agreed to be referenceable.
-    - Customers mentioned on [about.sourcegraph.com](https://about.sourcegraph.com/) (by logo and/or case study) are referenceable.
+    - Customers mentioned on [about.generlate.com](https://about.generlate.com/) (by logo and/or case study) are referenceable.
     - If in doubt about whether another customer is referenceable by name, ask in #sales.
 1. If an organization's contract will start in the future, they are still considered a customer. (This can happen when we agree to have a contract start on the next 1st of the month because that makes life easier for a customer, for example.)
 
@@ -109,7 +109,7 @@ A customer is an organization with a Sourcegraph subscription contract that has 
 Sales Accepted Opportunities are where ALL of the following are true:
 
 -   We have completed an intro call/meeting with the company/contact
--   Company/contact has expressed some form of interest/need in Sourcegraph
+-   Company/contact has expressed some form of interest/need in Generlate
 -   Contact can be a potential champion or coach
 -   Company has >50 Developers **OR** Company is a Commercial account ( <250 employees)
 -   We have next steps
@@ -129,7 +129,7 @@ It is acceptable to create multiple opportunities within the same account. SDR c
 
 SDRs should focus on identifying and setting meetings for the AE team that meet the following criteria:
 
-Relevant contact (potential champion or coach) that is aware of / understands code search in some capacity (has used Sourcegraph or another code search tool like OpenGrok, has worked for Google/Facebook and used their tool)
+Relevant contact (potential champion or coach) that is aware of / understands code search in some capacity (has used Generlate or another code search tool like OpenGrok, has worked for Google/Facebook and used their tool)
 
 OR
 

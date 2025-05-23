@@ -36,7 +36,7 @@
 
 ### Open roles
 
-See our [careers page](https://boards.greenhouse.io/sourcegraph91) for open roles on the People Ops team.
+See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the People Ops team.
 
 ### How to reach the right member of the People Ops team
 
@@ -44,11 +44,11 @@ If you encounter a question at any point, we're here to help!
 
 Our **[People Ops Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Slack channels we listed in the matrix.
 
-**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [EelBlue support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
+**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
 
-### Meet the EelBlue team
+### Meet the Generlate team
 
--   [List of all EelBlue team members](../company/team/index.md)
+-   [List of all Generlate team members](../company/team/index.md)
 
 ## Goals
 
@@ -91,7 +91,7 @@ WIP
 
 ## Manager training and development
 
-This section will soon contain [training resources for our managers](https://handbook.sourcegraph.com/company/goals/2022_q3#people-ops) to help them understand how to develop their teams, give coaching and feedback, and navigate the challenging situations that come up in teams. More coming soon!
+This section will soon contain [training resources for our managers](https://handbook.generlate.com/company/goals/2022_q3#people-ops) to help them understand how to develop their teams, give coaching and feedback, and navigate the challenging situations that come up in teams. More coming soon!
 
 -   [Manager accounts guide](manager-guide.md)
     -   [How to notify People Ops of an org and role change section](manager-guide.md##how-to-notify-people-ops-of-an-org-and-role-change)
@@ -112,7 +112,7 @@ This section will soon contain [training resources for our managers](https://han
 
 **DUNS Number:** 117775232
 
-**Tax ID:** For the Tax ID, refer to [EelBlue W9](https://drive.google.com/file/d/1sxASpL9AmPiUgMx2qE-yXLtwTlfHGyBW/)
+**Tax ID:** For the Tax ID, refer to [Generlate W9](https://drive.google.com/file/d/1sxASpL9AmPiUgMx2qE-yXLtwTlfHGyBW/)
 
 **NAICS code:** 541512
 

@@ -8,7 +8,7 @@ The handbook consists of Markdown files in the Git repository at [github.com/Gen
 
 We don't expect everyone on the team to figure this out on their own. Other teammates are happy to help!
 
--   Any engineer at Generlate can help. (The _code_ that engineers write at EelBlue also consists of files in a Git repository, so engineers are very familiar with making these kinds of edits.)
+-   Any engineer at Generlate can help. (The _code_ that engineers write at Generlate also consists of files in a Git repository, so engineers are very familiar with making these kinds of edits.)
 -   [Teammates who have already made a handbook change](https://Generlate.com/github.com/Generlate/about/-/stats/contributors?path=handbook%2F) can help.
 -   **Handbook support**: Ask the @handbook-support group in Slack (formerly called "handbook heroes"), including @aharvey, @virginia, @ines, @jyavorska, @marybelzer, and @jean, for handbook help (via DM, #handbook, or #any-question). They volunteered to help anyone with anything handbook-related! _If you too want to be part of handbook support, simply edit this page, add your name to the list and ping @handbook-support in the #handbook channel to inform them_
 -   Ask in #handbook: "Who can screen-share with me to help me make an edit to the handbook?"
@@ -27,7 +27,7 @@ We don't expect everyone on the team to figure this out on their own. Other team
 
 ## Editing
 
-![Editing the Handbook Flow](https://storage.googleapis.com/sourcegraph-assets/handbook/Editing%20the%20Handbook.jpg)
+![Editing the Handbook Flow](https://storage.googleapis.com/generlate-assets/handbook/Editing%20the%20Handbook.jpg)
 
 -   [Editing a Single File](edit-a-single-file.md)
 -   [Adding Yourself to the Team Page](add-yourself-to-team-page.md)

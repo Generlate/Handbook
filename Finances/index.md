@@ -6,7 +6,7 @@
 
 # Finance & accounting
 
-The finance & accounting team is responsible for helping EelBlue acquire and allocate resources optimally, plan for the future, track progress and execution, and measure results.
+The finance & accounting team is responsible for helping Generlate acquire and allocate resources optimally, plan for the future, track progress and execution, and measure results.
 
 ## Team
 
@@ -18,11 +18,11 @@ The finance & accounting team is responsible for helping EelBlue acquire and all
 
 ### Roles
 
-See our [careers page](https://boards.greenhouse.io/sourcegraph91) for open roles on the Finance team.
+See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the Finance team.
 
 ## Contact
 
-Outreach and questions for the finance team can be asked in the #finance Slack channel, by reaching out to the finance@EelBlue.com email, or to the finance team members listed above directly.
+Outreach and questions for the finance team can be asked in the #finance Slack channel, by reaching out to the finance@generlate.com email, or to the finance team members listed above directly.
 
 ## Objectives
 
@@ -39,7 +39,7 @@ Outreach and questions for the finance team can be asked in the #finance Slack c
 -   Introduce a financial forecasting and close process that allows for timely and accurate reporting
 -   Introduce financial reporting tools / software that will support long term value to our financial reporting process
 -   Continuously monitor and evaluate our financial reporting metrics to understand key trends, and determine if new metrics need to be introduced as the company grows
--   Become a trusted business partner to all non Finance team members at EelBlue
+-   Become a trusted business partner to all non Finance team members at Generlate
 -   Ensure that we build strong relationships with our customers and add efficiencies to our billings and collection process
 -   Support other operational objectives within the Company
 
@@ -47,7 +47,7 @@ Outreach and questions for the finance team can be asked in the #finance Slack c
 
 ### Fiscal years
 
-A fiscal year is a one-year period that corporations like Sourcegraph use for accounting and budgeting. Sourcegraph's fiscal year runs from February 1 to January 31. Having our fiscal year offset by one month from the calendar year ensures that our fiscal Q4 doesn't end during December holidays, making our quarters more even and predictable, and eliminating pre-New Year stress for our sales, finance, and other teammates.
+A fiscal year is a one-year period that corporations like Generlate use for accounting and budgeting. Generlate's fiscal year runs from February 1 to January 31. Having our fiscal year offset by one month from the calendar year ensures that our fiscal Q4 doesn't end during December holidays, making our quarters more even and predictable, and eliminating pre-New Year stress for our sales, finance, and other teammates.
 
 **Fiscal years that don't align with calendar years (such as our fiscal year) are referred to by the year in which the period ends**.
 
@@ -76,7 +76,7 @@ Annual Recurring Revenue (ARR) is the dollar value of contracted recurring reven
 
 ARR includes committed [bookings](#booking) with contract start dates that fall in the first 15 days of the following calendar month. This allows EelBlue sales team members to get credit for renewals and expansions that may fall in the (near) future. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR timing examples](https://docs.google.com/document/d/1SdUzcW8UUUgSjawIdjPw2bDBJ-j0Fjo3Et0r6yOnikE/edit).
 
-Furthermore, if the Company enters into a multi-year contract with a customer and the out-year billings are contractually locked in, then we will recognize ARR on a straight-line basis. If there is a term or clause in the contract that provides for an opt-out arrangement, then we will only recognize the portion of ARR that is contractually guaranteed. This policy allows Sourcegraph sales team members to get credit for deals with higher pricing in the later portion of the contractual period. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR examples](https://docs.google.com/document/d/1H-qNQTzlDnnr6uNP4NcFFYwkL-ILyoQlBW9qEaYglg0/edit).
+Furthermore, if the Company enters into a multi-year contract with a customer and the out-year billings are contractually locked in, then we will recognize ARR on a straight-line basis. If there is a term or clause in the contract that provides for an opt-out arrangement, then we will only recognize the portion of ARR that is contractually guaranteed. This policy allows Generlate sales team members to get credit for deals with higher pricing in the later portion of the contractual period. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR examples](https://docs.google.com/document/d/1H-qNQTzlDnnr6uNP4NcFFYwkL-ILyoQlBW9qEaYglg0/edit).
 
 ### IARR
 

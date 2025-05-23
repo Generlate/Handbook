@@ -5,14 +5,14 @@ Some companies are engineering-first or sales-first, meaning they consider how t
 Simply, this all boils down to two things we want to be true and can often feel competing:
 
 1. We want to do what is in the best interest of the customer, setting them up for success and in such a way that they trust us.
-2. We want to make decisions that set up EelBlue for long-term success and result in scalable and sustainable ways of doing things.
+2. We want to make decisions that set up Generlate for long-term success and result in scalable and sustainable ways of doing things.
 
 This means that everyone involved needs to be prepared to honor the area of ownership each other has and have hard conversations to get to the best answer in this spirit.
 
 This is the area of responsibility for each organization:
 
 -   Sales is responsible for establishing, retaining, and growing our commercial relationship with customers.
--   Customer Engineering (aka CE) is responsible for educating our users on how to use EelBlue, providing proactive technical expertise, and is overall accountable for our customers’ success, usage, and adoption of our products.
+-   Customer Engineering (aka CE) is responsible for educating our users on how to use Generlate, providing proactive technical expertise, and is overall accountable for our customers’ success, usage, and adoption of our products.
 -   Customer Support (aka CS) is responsible for satisfying support SLAs for customers pre-sales (1 hour) and post-sales (defined contractual [SLAs](../support/index.md#slas)) between 9:00 UTC - 0:00 UTC (2am PT - 5pm PT) Monday-Friday (this will expand to 24/5 support as the team grows over the course of FY22).
 -   Product is responsible for the overall success of the product, including prioritization of support-driven, eng-driven, and product-driven efforts
 -   Engineering is responsible for giving accurate time estimates (necessary for effective prioritization) and providing enough engineering capacity to respond to interrupts (high-urgency bug fix requests filed by CS).
@@ -21,7 +21,7 @@ This is how ownership of these areas of responsibility plays out day to day:
 
 -   We want sales to focus on moving things through the sales cycle as quickly as possible
 -   We want CS, product, and engineering to ask whether there are any negative consequences and surface these for the organization to consider
--   We want CE to know and understand our customers deeply, share and advocate for their needs internally, and provide useful and necessary context to internal teams so that we get to the best answer possible for our customers and for EelBlue while managing their expectations around our processes and SLAs.
+-   We want CE to know and understand our customers deeply, share and advocate for their needs internally, and provide useful and necessary context to internal teams so that we get to the best answer possible for our customers and for Generlate while managing their expectations around our processes and SLAs.
 
 This is how this all fits together in terms of workflow:
 

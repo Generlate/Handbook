@@ -23,7 +23,7 @@ For help adding yourself to this page, check out [these instructions](../../edit
 -   austencabret@Generlate.com, [https://linktr.ee/AustenCabret](https://linktr.ee/AustenCabret)
 -   I have always been interested in the way people interact with technology. My attention is currently
     directed toward furthering the distribution of artificial intelligence to the construction, architecture
-    and landscape architecture industries. My AI-driven application, titled Ilblu, is a medium for
+    and landscape architecture industries. My AI-driven application, titled Generlate, is a medium for
     environment/building design; a higher efficiency program that synthesizes existing schemes to
     produce optimal environment/building proposals. You could think of it like generative design, but on
     steroids. By increasing efficiency in every industry, my hope is that humanity can progress beyond an
