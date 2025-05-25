@@ -1,5 +1,3 @@
-<!-- check on the removed title-->
-
 The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visibly because we are an [open company](company/index.md#open-company).
 
 The handbook is a living document and we expect every teammate to propose improvements, changes, additions, and fixes to keep it continuously up-to-date and accurate.
@@ -13,7 +11,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ## [Company](company/index.md)
 
-<!-- figure out why some of these are directories and some are files. remove directories if not necessary-->
+<!-- make pages that should have subdirectories be a [name]/index.md directory and the others to be a [name].md. remove directories if not necessary-->
 
 -   [All-remote](company/remote/index.md)
 -   [Asynchronous communication](company/asynchronous-communication.md)
@@ -22,7 +20,7 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Team](company/team/index.md)
     -   [Org Chart](Org_Chart.md)
     -   [Teammates](company/team/index.md)
-    -   Careers
+    -   Careers <!-- figure out if this should have a link or what-->
 -   [CEO](ceo/index.md)
 -   [Communication](communication/index.md)
     -   [Content guidelines](communication/content_guidelines/index.md)
@@ -32,7 +30,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ### [Development](Development/index.md)
 
--   [Team]()
+-   [Team](Development/index.md#Team) <!-- check on this link -->
 -   [Strategy](Development/index.md#Strategy)
 -   [Product](Development/index.md#Product)
     -   [Product Management](Development/index.md#Product_Management)
@@ -43,7 +41,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ### [Finance](Finance/index.md)
 
--   [Team]()
+-   [Team](Finance/index.md#Team) <!-- check on this link -->
 -   [Financial terms and definitions](Finance/index.md#Financial_terms_and_definitions)
 -   [Accounting](Finance/index.md#Accounting)
 
@@ -52,7 +50,7 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Team](Executive/index.md#Team)
 -   [Goals](Executive/index.md#Goals)
 -   [How to work with us](Executive/index.md#How_to_work_with_us)
--   [Analystics issue tracker](Executive/index.md#Analytics_issue_tracker)
+-   [Analytics issue tracker](Executive/index.md#Analytics_issue_tracker)
 -   [Talent](Executive/index.md#Talent)
 -   [Our open positions](Executive/index.md#Our_open_positions)
 -   [Resources for candidates](Executive/index.md#Resources_for_candidates)
@@ -62,10 +60,9 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ### [Sales](Sales/index.md)
 
--   [Team]()
+-   [Team](Sales/index.md#Team)
 -   [Sales strategy & operations](Sales/index.md#Sales_strategy_&_operations)
 -   [Advertising](Sales/index.md#Advertising)
-
 -   [Product Marketing](Sales/index.md#Product_Marketing)
 -   [Content Marketing](Sales/index.md#Content_Marketing)
     -   [Editorial](Sales/index.md#Editorial)
@@ -78,9 +75,11 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ### [Support](Support/index.md)
 
--   [Team]()
+-   [Team](Support/index.md#Team)
 -   [Legal](Support/index.md#Legal)
 -   [Internal Security](Support/index.md#Internal_Security)
 -   [Customer support](Support/index.md#Customer_support)
     <!-- TODO: swap departments for generlate's departments -->
     <!-- TODO: add icons -->
+
+<!-- TODO: after finishing this template version, download sourcegraph's latest handbook and see which improvements can be made to generlate-handbook>
