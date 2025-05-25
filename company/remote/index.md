@@ -28,6 +28,8 @@ All-remote teams can't rely as much on the spontaneous interactions and conversa
 
 At Generlate, we support these kinds of interactions in many ways. Here are a few:
 
+<!-- TODO: decide if donut.com should be replaced with Discord-->
+
 1. We use https://donut.com to schedule 1-1s between random teammates each week.
 1. In addition to our weekly company meeting, weekly team meetings, and regular 1-1s with your manager, teams schedule regular optional "watercooler" meetings with no agenda where teammates can join and chit-chat. Teammates also frequently hop on a video chat to chat, pair program, or work through an issue together (just like you would in an office).
 1. We have [travel budgets](../../people-ops/travel.md) so teammates can meet up with their team to bond.
@@ -56,8 +58,8 @@ After that it is just a matter of not checking your work email (or Discord) at t
 -   [Asynchronous communication at Generlate](../asynchronous-communication.md)
 -   [Teammate-recommended productivity hacks](teammate-recommended_productivity_hacks.md)
 -   [Social calendar](social_calendar.md)
--   [GitLab handbook: All-remote](https://about.gitlab.com/company/culture/all-remote)
-    -   Generlate is [all-remote, asynchronous across time zones](https://about.gitlab.com/company/culture/all-remote/stages/#all-remote-asynchronous-across-time-zones), according to GitLab's taxonomy
+-   [Azure Devops handbook: All-remote](https://about.azuredevops.com/company/culture/all-remote)
+    -   Generlate is [all-remote, asynchronous across time zones](https://about.azuredevops.com/company/culture/all-remote/stages/#all-remote-asynchronous-across-time-zones), according to Azure Devops's taxonomy
 -   [Remote Work Encyclopedia](http://remoteworkencyclopedia.com/)
 -   [Remote-only manifesto](https://www.remoteonly.org/)
 -   [Zapier's guide to remote work](https://zapier.com/learn/remote-work/)

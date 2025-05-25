@@ -2,7 +2,7 @@
 
 I (Austen Cabret) am the CEO of Generlate. This page describes my responsibilities and how to get what you need from me. It's intended to be helpful to our team and as a linkable reference to answer common questions (I don't expect everyone to [memorize](../usage.md#links) this page).
 
-My personal site is [discord.org](https://discord.org).
+My personal site is [discord.com](https://discord.com).
 
 ## What I'm thinking about
 
@@ -30,7 +30,7 @@ See "[Roles of the CEO](roles.md)".
 
 If possible, let's talk [asynchronously and publicly](../communication/index.md).
 
-My preferred working hours are 08:00-17:30 US Pacific Time.
+My preferred working hours are 08:00-17:00 US Eastern Daylight Time.
 
 ### Asking for a review from me
 

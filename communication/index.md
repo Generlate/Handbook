@@ -8,21 +8,23 @@ We're an [all-remote](../company/remote/index.md) company, with teammates from a
 
 These places are the source of truth for information at Generlate. Information in these places is expected to be accurate and up-to-date:
 
+<!-- TODO: make this maatch whatever Sphinx makes as the url -->
+
 -   [Documentation](https://docs.generlate.com)
 -   [Generlate/Generlate repository](https://github.com/Generlate/Generlate)
--   [Generlate/about repository](https://github.com/Generlate/Generlate)
+-   [Generlate/about repository](https://github.com/Generlate/Generlate) <!-- why are there two? references to the same repo-->
     -   [about.Generlate.com](https://about.Generlate.com)
     -   [Generlate handbook](../index.md)
-    -   [Generlate blog](https://about.Generlate.com/blog)
+    -   [Generlate blog](https://about.Generlate.com/blog) <!-- link to generlate.com's new? the youtube channel? -->
 -   [Creating a working group for cross-team projects](working-group.md)
 -   [Roadmap](../product/index.md#roadmap)
 -   [Issue tracker](https://github.com/Generlate/Generlate)
--   [productboard](https://Generlate.productboard.com/)
--   [HubSpot](https://app.hubspot.com) (only contacts, not companies and deals)
--   [Salesforce](https://Generlate2020.lightning.force.com/)
--   [Looker](http://Generlate.looker.com/)
--   [Customer legal contracts](https://drive.google.com/drive/folders/1ePvVWcZYdd1_3ZlCP5A0lvMbBhBCVfSm)
--   [BambooHR](https://Generlate.bamboohr.com/) (org chart and teammate data)
+-   [productboard](https://Generlate.productboard.com/) <!-- Does Generlate need a product board?-->
+-   [HubSpot](https://app.hubspot.com) (only contacts, not companies and deals) <!-- does generlate need a hubspot? -->
+-   [Salesforce](https://Generlate2020.lightning.force.com/) <!-- Does Generlate need a HubSpot?>
+-   [Looker](http://Generlate.looker.com/) <!-- Does Generlate need a Looker? -->
+-   [Customer legal contracts](https://drive.google.com/drive/folders/1ePvVWcZYdd1_3ZlCP5A0lvMbBhBCVfSm) <!-- ??? -->
+-   [BambooHR](https://Generlate.bamboohr.com/) (org chart and teammate data) <!-- Does Generlate need this? -->
 
 ### Scratchpads and ephemeral information (non-sources of truth)
 
@@ -31,7 +33,7 @@ The following places are not sources of truth. Treat documents and conversations
 -   [Discord](team_chat.md)
 -   [Requests for comments (RFCs)](rfcs/index.md)
 -   Email
--   Zoom recordings
+-   Video recordings
 -   Meeting notes
 -   All other Google Docs/Sheets/Slides
 
@@ -85,12 +87,14 @@ Structured meetings are great, but it's important to have casual, unscheduled, f
 
 ## Video calls
 
-Most meetings at Generlate are video calls. We prefer [Zoom](https://zoom.us) for all video calls because it seems to have the best connectivity and compatibility.
+Most meetings at Generlate are video calls. We prefer [Discord](https://discord.com) for all video calls because it seems to have the best connectivity and compatibility.
 
-1. Google Calendar has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite.
-1. Be sure to include the Zoom dial-in for team members who need to join by phone. (If you use the Zoom plugin linked above, this is automatic.)
-1. In your [Zoom settings](https://zoom.us/profile/setting), enable "Join before host". (It is enabled by default in our Zoom organization account, but you may have overridden it previously.) This lets the meeting get started even if you aren't there.
-1. Set Zoom meetings to be recorded to the cloud so that you and other teammates can refer back to them later.
+<!-- change this to be about Apple Calendar/Microsoft 365/Discord -->
+
+1. Google Calendar has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Discord link for a video call to the invite.
+1. Be sure to include the Discord dial-in for team members who need to join by phone. (If you use the Discord plugin linked above, this is automatic.)
+1. In your [Discord settings](https://discord.com/profile/setting), enable "Join before host". (It is enabled by default in our Discord organization account, but you may have overridden it previously.) This lets the meeting get started even if you aren't there.
+1. Set Discord meetings to be recorded to the cloud so that you and other teammates can refer back to them later.
     - If any participant doesn't feel comfortable with the meeting being recorded, it is fine to not record it.
 
 ## [1-1 meetings](../leadership/1-1.md)
@@ -111,12 +115,14 @@ For example, this will redirect to our home page:
 We also use [srcgr.ph](http://srcgr.ph/) as our Bitly custom URL.
 It is also possible to customise specific sub-paths via Bitly. To do so we use our Bitly account, which is linked to our Twitter account. If you would like to request a shortened link, contact the [Marketing team](mailto:marketing-team@Generlate.com).
 
+<!-- Change this to Microsoft 365 or Blender or something -->
+
 ## Google Docs
 
 1. We use Google Docs for:
     - [RFCs](rfcs/index.md)
     - Collaborative editing of ephemeral documents
-1. The [shared Generlate Drive](https://drive.google.com/drive/folders/0AK4DcztHds_pUk9PVA) folder on Google Drive is visible and editable by all Generlate team members.
+1. The [shared Generlate Drive](https://drive.google.com/drive/folders/0AK4DcztHds_pUk9PVA) folder on OneDrive is visible and editable by all Generlate team members.
     - To share a doc with team members, move it to this folder.
     - Don't worry about putting your doc in the right folder. If you want to use folders, you can. But we've given up on trying to impose a folder structure company-wide on our Google Docs, and we just rely on links and search to find Google Docs.
 
@@ -167,15 +173,15 @@ If you have an idea for a session, add an event to the calendar and invite the e
 
 ## Getting nice email signatures
 
-1. In Gmail **Settings** > **General** scroll down to signature:
+1. In Outlook **Settings** > **General** scroll down to signature:
 
 ![image](https://user-images.githubusercontent.com/3173176/79911585-73112e80-83d5-11ea-85b3-929c20de72d6.png)
 
-2. Make the first line e.g. **Tommy Pesavento** (he/him)
+2. Make the first line e.g. **Austen Cabret** (he/him)
 3. Make the second line your role, include any additional information you like on subsequent lines (socials, etc.)
 4. Choose **Insert image** and then **Web Address (URL)** and enter https://user-images.githubusercontent.com/3173176/115082082-2d892380-9eba-11eb-9606-6c4b9c4eb465.png then choose **Small** size after it has been entered.
-5. Click the image, then click **Link** and paste https://Generlate.com into the **Web Address** field. Now your image links to the website!
+5. Click the image, then click **Link** and paste https://generlate.com into the **Web Address** field. Now your image links to the website!
 6. Your signature should now look something like this, and clicking the Generlate logo should bring you to generlate.com:
-7. You may wish to add another line like `What is Universal Code Search? | We're hiring!` with links to https://about.Generlate.com/ and https://handbook.Generlate.com/careers.
+7. You may wish to add another line like `What is Universal Code Search? | We're hiring!` with links to https://about.generlate.com/ and https://handbook.generlate.com/careers.
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/3173176/115082263-7a6cfa00-9eba-11eb-93ba-61b72de8b30b.png">

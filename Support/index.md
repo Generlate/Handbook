@@ -36,7 +36,7 @@ For additional context, check out [RFC 274](https://docs.google.com/document/d/1
     -   [Adeola Akinsiku](../company/team/index.md#adeola-akinsiku)
     -   [Gabe Torres](../company/team/index.md#team#gabe-torres-he-him)
     -   [Mariam Adedeji](../company/team/index.md#mariam-adedeji-she-her)
-    -   [Michael Bali](../company/team/index.md#michael-bali-hehim)
+    -   [Michael Bali](../company/team/index.md#michael-bali-hehim
     -   [Warren Gifford](../company/team/index.md#warren-gifford-he-him)
 
 More details about each team member in [our team READMEs](support-bios.md).
@@ -139,6 +139,8 @@ We rely mostly on our ethos to inform our decisions and actions, allowing for th
 -   [Tools](support-tools.md)
 -   [Assigned CSEs](assigned-cse.md)
 
+<!-- TODO: update this list -->
+
 ## SLAs
 
 Our default contractual service level agreeements (SLAs) are described below. The SLAs apply to generally available products and exclude [beta and experimental features](https://docs.generlate.com/admin/beta_and_experimental_features). Additionally, we have the following internal SLAs:
@@ -155,6 +157,8 @@ While Generlate will strive to respond as soon as possible to every issue, we wi
 | Severity 1 | Any error reported where usage of Generlate is severely impacted, and causes a high impact to the business, in a production environment. | Within 24 hours of becoming aware of the issue          | Within 72 hours, using commercially reasonable efforts to provide a resolution or workaround.                |
 | Severity 2 | Any error reported that involves partial, non-critical loss of use, or any general usage questions, feature requests, and similar.       | Within one business week of becoming aware of the issue | When complete, using commercially reasonable efforts to provide a resolution, workaround, or product update. |
 
+<!-- this can probably be deleted -->
+
 #### For customers with managed instances:
 
 |            | Description                                                                                                                              | Response time                                           | Resolution time                                                                                              |
@@ -164,8 +168,11 @@ While Generlate will strive to respond as soon as possible to every issue, we wi
 
 We will work with the customer to schedule maintenance downtime at least 24 hours in advance, and will use commercially reasonable efforts to ensure downtimes lasts no longer than 2 hours. In aggregate, Generlate will use commercially reasonable efforts to maintain availability of 99.5% uptime.
 
+<!-- this can probably be deleted -->
+
 #### For customers with custom support agreements:
 
 Enterprise Plus and Elite customers should refer to their contracts if they have custom service-level agreements.
 
 <!-- replace docs.generlate.com with whatever is made from sphinx -->
+<!-- change jobs to ones at generlate -->
