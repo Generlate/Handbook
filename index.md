@@ -1,4 +1,4 @@
-# Generlate Handbook
+<!-- check on the removed title-->
 
 The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visibly because we are an [open company](company/index.md#open-company).
 
@@ -6,10 +6,14 @@ The handbook is a living document and we expect every teammate to propose improv
 
 -   [Editing the handbook](editing/index.md)
 -   [Handbook usage](usage.md)
--   Handbook feedback
--   [What’s new in the handbook](https://github.com/Generlate/Generlate/issues) (or [this search](https://github.com/Generlate/Generlate/issues) if you’d like to see diffs)
+-   Handbook feedback <!-- check if this should have a link or what-->
+-   [What’s new in the handbook](https://github.com/Generlate/generlate-handbook/issues) if you’d like to see diffs)
+    <!-- check this link works-->
+    <!-- figure out what should go in project root and what goes in the company directory-->
 
 ## [Company](company/index.md)
+
+<!-- figure out why some of these are directories and some are files. remove directories if not necessary-->
 
 -   [All-remote](company/remote/index.md)
 -   [Asynchronous communication](company/asynchronous-communication.md)
@@ -17,7 +21,7 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Goals](company/goals/index.md)
 -   [Team](company/team/index.md)
     -   [Org Chart](Org_Chart.md)
-    -   [Teammates](./company/team/index.md)
+    -   [Teammates](company/team/index.md)
     -   Careers
 -   [CEO](ceo/index.md)
 -   [Communication](communication/index.md)
@@ -78,4 +82,5 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Legal](Support/index.md#Legal)
 -   [Internal Security](Support/index.md#Internal_Security)
 -   [Customer support](Support/index.md#Customer_support)
-<!-- TODO: swap departments for generlate's departments -->
+    <!-- TODO: swap departments for generlate's departments -->
+    <!-- TODO: add icons -->
