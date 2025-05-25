@@ -1,4 +1,4 @@
-# People Ops
+# Executive
 
 ## Team
 
@@ -22,25 +22,25 @@
 
 ## Team
 
-### People Ops team members
+### Executive team members
 
 -   [Austen Cabret](../company/team/index.md#debbie-johnstone-she-her), Director of People
 
-### People Ops team READMEs
+### Executive team READMEs
 
-[People Ops READMEs](people-ops-bios.md)
+[Executive READMEs](executive-bios.md)
 
 ### Open roles
 
-See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the People Ops team.
+See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the Executive team.
 
-### How to reach the right member of the People Ops team
+### How to reach the right member of the Executive team
 
 If you encounter a question at any point, we're here to help!
 
-Our **[People Ops Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Discord channels we listed in the matrix.
+Our **[Executive Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Discord channels we listed in the matrix.
 
-**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the People Ops team directly._
+**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the Executive team directly._
 
 ### Meet the Generlate team
 
@@ -87,10 +87,10 @@ WIP
 
 ## Manager training and development
 
-This section will soon contain [training resources for our managers](https://handbook.generlate.com/company/goals/2022_q3#people-ops) to help them understand how to develop their teams, give coaching and feedback, and navigate the challenging situations that come up in teams. More coming soon!
+This section will soon contain [training resources for our managers](https://handbook.generlate.com/company/goals/2022_q3#executive) to help them understand how to develop their teams, give coaching and feedback, and navigate the challenging situations that come up in teams. More coming soon!
 
 -   [Manager accounts guide](manager-guide.md)
-    -   [How to notify People Ops of an org and role change section](manager-guide.md##how-to-notify-people-ops-of-an-org-and-role-change)
+    -   [How to notify Executive of an org and role change section](manager-guide.md##how-to-notify-executive-of-an-org-and-role-change)
 
 ## Other policies
 
@@ -100,11 +100,11 @@ This section will soon contain [training resources for our managers](https://han
 
 ### Business address and contact information
 
-**Address (for mail):** 10474 wellington parc dr. 33449 wellington, FL
+**Address (for mail):** 6417 marbletree ln. 33467 greenacres, FL
 
-**Address (for contracts, paperwork, and corporate card billing):** Trellis Coworking: 10474 wellington parc dr. 33449 wellington, FL
+**Address (for contracts, paperwork, and corporate card billing):** Trellis Coworking: 6417 marbletree ln. 33467 greenacres, FL
 
-**Phone Number:** (650) 273-5591
+**Phone Number:** (954) 655-3436
 
 **DUNS Number:** 117775232
 

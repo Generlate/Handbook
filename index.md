@@ -37,24 +37,24 @@ The handbook is a living document and we expect every teammate to propose improv
     -   [Engineering orgs and teams](Development/index.md#Engineering_orgs_and_teams)
 -   [Security](Development/index.md#Security)
 
-### [Finances](Finances/index.md)
+### [Finance](Finance/index.md)
 
 -   [Team]()
--   [Financial terms and definitions](Finances/index.md#Financial_terms_and_definitions)
--   [Accounting](Finances/index.md#Accounting)
+-   [Financial terms and definitions](Finance/index.md#Financial_terms_and_definitions)
+-   [Accounting](Finance/index.md#Accounting)
 
-### [People Operations](People_Operations/index.md)
+### [Executive](Executive/index.md)
 
--   [Team](People_Operations/index.md#Team)
--   [Goals](People_Operations/index.md#Goals)
--   [How to work with us](People_Operations/index.md#How_to_work_with_us)
--   [Analystics issue tracker](People_Operations/index.md#Analytics_issue_tracker)
--   [Talent](People_Operations/index.md#Talent)
--   [Our open positions](People_Operations/index.md#Our_open_positions)
--   [Resources for candidates](People_Operations/index.md#Resources_for_candidates)
--   [Resources for hiring managers](People_Operations/index.md#Resources_for_hiring_managers)
--   [Resources for teammates](People_Operations/index.md#Resources_for_teammates)
--   [Resources for recruiters](People_Operations/index.md#Resources_for_recruiters)
+-   [Team](Executive/index.md#Team)
+-   [Goals](Executive/index.md#Goals)
+-   [How to work with us](Executive/index.md#How_to_work_with_us)
+-   [Analystics issue tracker](Executive/index.md#Analytics_issue_tracker)
+-   [Talent](Executive/index.md#Talent)
+-   [Our open positions](Executive/index.md#Our_open_positions)
+-   [Resources for candidates](Executive/index.md#Resources_for_candidates)
+-   [Resources for hiring managers](Executive/index.md#Resources_for_hiring_managers)
+-   [Resources for teammates](Executive/index.md#Resources_for_teammates)
+-   [Resources for recruiters](Executive/index.md#Resources_for_recruiters)
 
 ### [Sales](Sales/index.md)
 
