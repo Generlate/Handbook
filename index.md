@@ -82,4 +82,4 @@ The handbook is a living document and we expect every teammate to propose improv
     <!-- TODO: swap departments for generlate's departments -->
     <!-- TODO: add icons -->
 
-<!-- TODO: after finishing this template version, download sourcegraph's latest handbook and see which improvements can be made to generlate-handbook>
+<!-- TODO: after finishing this template version, download sourcegraph's latest handbook and see which improvements can be made to generlate-handbook -->
