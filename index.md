@@ -1,5 +1,3 @@
-<!-- change handbook name from 'generlate-handbook' to 'Handbook' -->
-
 The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visibly because we are an [open company](company/index.md#open-company).
 
 The handbook is a living document and we expect every teammate to propose improvements, changes, additions, and fixes to keep it continuously up-to-date and accurate.
