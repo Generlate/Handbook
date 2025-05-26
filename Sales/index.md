@@ -1,5 +1,7 @@
 # Sales
 
+<!-- add team section -->
+
 ## Sales strategy and operations
 
 ## Advertising

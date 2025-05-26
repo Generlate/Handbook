@@ -1,47 +1,46 @@
 # Org Chart
 
-The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR]().
+The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- is this supposed to have a link? --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link?>
 
-## [Advertising]()
+## [Executive]() <!-- is this supposed to have a link?>
 
--   Unfilled position, Director of Advertising (reports to CEO) - Social Media Content Creator - Advertisement Content Creator
+-   Unfilled positions: Chief Financial Officer, Chief Development Officer, Chief Sales Officer and Chief Support Officer
 
-Helpful links: - Advertising team and hiring plan
+Helpful links: - Executive team and hiring plan <!-- is this supposed to have a link?>
 
-## [Development]()
+## [Development]() <!-- is this supposed to have a link?>
 
--   Unfilled Position, Director of Development (reports to CEO)
-    -   Software Development
-        -   Front End
-        -   Back end
-        -   Machine Learning Engineer
-        -   Product Owner/Manager
-        -   Platform Engineer (creates api’s or rewrites code to work on other platforms)
-    -   Enablement
-        -   Quality Assurance
-        -   DevOps Engineer
-        -   Hardware Engineer/Expert
-        -   Security
+-   Unfilled Positions: Director of Development
+    -   Front End Engineer
+    -   Back end Engineer
+    -   Machine Learning Engineer
+    -   Product Owner/Manager
+    -   Platform Engineer (creates api’s or rewrites code to work on other platforms)
+    -   Quality Assurance Engineer
+    -   DevOps Engineer
+    -   Hardware Engineer/Expert
+    -   Security Engineer
+    <!-- check on this hierarchy. i removed the software development middle level -->
 
-Helpful links: - Development team and hiring plan
+Helpful links: - Development team and hiring plan <!-- is this supposed to have a link?>
 
-## [Finances]()
+## [Finance]() <!-- is this supposed to have a link?>
 
--   Unfilled position, Director of Finances (reports to CEO) - Accountant
+-   Unfilled positions: Director of Finances, Accountant and Data Analyst
 
-Helpful links: - Finances team and hiring plan
+Helpful links: - Finance team and hiring plan <!-- is this supposed to have a link?>
 
-## [Marketing]()
+## [Sales]() <!-- is this supposed to have a link?>
 
--   Unfilled position, Director of Marketing (reports to CEO) - Data Analyst - Product Marketer
+-   Unfilled positions: Director of Sales, writer, personality, videographer and video editor
 
-Helpful links: - Marketing team and hiring plan
+Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link?>
 
-## [Support]()
+## [Support]() <!-- is this supposed to have a link?>
 
--   Unfilled position, Director of Support (reports to CEO) - Lawyer - Technical Support - Training - Customer Service Representative
+-   Unfilled positions: Director of Support, Lawyer, Technical Support, Customer Service Specialist, human resources specialist and Information Technology Specialist
 
-Helpful links: - Support team and hiring plan
+Helpful links: - Support team and hiring plan <!-- is this supposed to have a link?>
 
 How to edit
 
@@ -55,5 +54,3 @@ This org chart is generated automatically based on the contents of other handboo
     3. To add any other text or structure to this page, just insert it as you would normally. Only 3rd-level
          heading links (lines that start with ### and that have a link) are treated specially; all other content is
          preserved.
-
-<!--TODO: swap departments for Generlate's departments-->
