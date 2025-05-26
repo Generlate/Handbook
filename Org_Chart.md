@@ -4,13 +4,18 @@ The org chart is generated automatically from team pages in the handbook ([need 
 
 ## [Executive]() <!-- is this supposed to have a link? -->
 
--   Unfilled positions: Chief Financial Officer, Chief Development Officer, Chief Sales Officer and Chief Support Officer
+-   Unfilled positions:
+    -   Chief Financial Officer
+    -   Chief Development Officer
+    -   Chief Sales Officer
+    -   Chief Support Officer
 
 Helpful links: - Executive team and hiring plan <!-- is this supposed to have a link? -->
 
 ## [Development]() <!-- is this supposed to have a link? -->
 
--   Unfilled Positions: Director of Development
+-   Unfilled Positions:
+    -   Director of Development
     -   Front End Engineer
     -   Back end Engineer
     -   Machine Learning Engineer
@@ -26,19 +31,33 @@ Helpful links: - Development team and hiring plan <!-- is this supposed to have 
 
 ## [Finance]() <!-- is this supposed to have a link? -->
 
--   Unfilled positions: Director of Finances, Accountant and Data Analyst
+-   Unfilled positions:
+    -   Director of Finances
+    -   Accountant
+    -   Data Analyst
 
 Helpful links: - Finance team and hiring plan <!-- is this supposed to have a link? -->
 
 ## [Sales]() <!-- is this supposed to have a link? -->
 
--   Unfilled positions: Director of Sales, writer, personality, videographer and video editor
+-   Unfilled positions:
+    -   Director of Sales
+    -   writer
+    -   personality
+    -   videographer
+    -   video editor
 
 Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link? -->
 
 ## [Support]() <!-- is this supposed to have a link? -->
 
--   Unfilled positions: Director of Support, Lawyer, Technical Support, Customer Service Specialist, human resources specialist and Information Technology Specialist
+-   Unfilled positions:
+    -   Director of Support
+    -   Lawyer
+    -   Technical Support
+    -   Customer Service Specialist
+    -   human resources specialist
+    -   Information Technology Specialist
 
 Helpful links: - Support team and hiring plan <!-- is this supposed to have a link? -->
 
