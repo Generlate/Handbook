@@ -1,14 +1,14 @@
 # Org Chart
 
-The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- is this supposed to have a link? --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link?>
+The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- is this supposed to have a link? --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link? -->
 
-## [Executive]() <!-- is this supposed to have a link?>
+## [Executive]() <!-- is this supposed to have a link? -->
 
 -   Unfilled positions: Chief Financial Officer, Chief Development Officer, Chief Sales Officer and Chief Support Officer
 
-Helpful links: - Executive team and hiring plan <!-- is this supposed to have a link?>
+Helpful links: - Executive team and hiring plan <!-- is this supposed to have a link? -->
 
-## [Development]() <!-- is this supposed to have a link?>
+## [Development]() <!-- is this supposed to have a link? -->
 
 -   Unfilled Positions: Director of Development
     -   Front End Engineer
@@ -22,25 +22,25 @@ Helpful links: - Executive team and hiring plan <!-- is this supposed to have a 
     -   Security Engineer
     <!-- check on this hierarchy. i removed the software development middle level -->
 
-Helpful links: - Development team and hiring plan <!-- is this supposed to have a link?>
+Helpful links: - Development team and hiring plan <!-- is this supposed to have a link? -->
 
-## [Finance]() <!-- is this supposed to have a link?>
+## [Finance]() <!-- is this supposed to have a link? -->
 
 -   Unfilled positions: Director of Finances, Accountant and Data Analyst
 
-Helpful links: - Finance team and hiring plan <!-- is this supposed to have a link?>
+Helpful links: - Finance team and hiring plan <!-- is this supposed to have a link? -->
 
-## [Sales]() <!-- is this supposed to have a link?>
+## [Sales]() <!-- is this supposed to have a link? -->
 
 -   Unfilled positions: Director of Sales, writer, personality, videographer and video editor
 
-Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link?>
+Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link? -->
 
-## [Support]() <!-- is this supposed to have a link?>
+## [Support]() <!-- is this supposed to have a link? -->
 
 -   Unfilled positions: Director of Support, Lawyer, Technical Support, Customer Service Specialist, human resources specialist and Information Technology Specialist
 
-Helpful links: - Support team and hiring plan <!-- is this supposed to have a link?>
+Helpful links: - Support team and hiring plan <!-- is this supposed to have a link? -->
 
 How to edit
 
