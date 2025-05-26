@@ -7,7 +7,7 @@ Generlate is an all-remote company, which means:
 -   We work [asynchronously](../asynchronous-communication.md) across time zones and continents.
     -   You choose when you want to work. (Most people work the normal working hours for their timezone.)
     -   You don't need to ask permission or tell anyone if you need to step out.
-    -   We try to limit the number of synchronous meetings, but there are some [company](../../communication/company_meeting.md) and team meetings that you need to attend which might be outside of your normal working hours. We do our best to optimize meeting times for all involved participants.
+    -   We try to limit the number of synchronous meetings, but there are some [company](../../communication/company_meeting.md) <!-- missing link --> and team meetings that you need to attend which might be outside of your normal working hours. We do our best to optimize meeting times for all involved participants.
 
 ## FAQ
 
@@ -32,7 +32,7 @@ At Generlate, we support these kinds of interactions in many ways. Here are a fe
 
 1. We use https://donut.com to schedule 1-1s between random teammates each week.
 1. In addition to our weekly company meeting, weekly team meetings, and regular 1-1s with your manager, teams schedule regular optional "watercooler" meetings with no agenda where teammates can join and chit-chat. Teammates also frequently hop on a video chat to chat, pair program, or work through an issue together (just like you would in an office).
-1. We have [travel budgets](../../people-ops/travel.md) so teammates can meet up with their team to bond.
+1. We have [travel budgets](../../people-ops/travel.md) <!-- missing link--> so teammates can meet up with their team to bond.
 
 ### Is it harder to support less experienced teammates on an all-remote team?
 
@@ -48,21 +48,21 @@ Some people prefer to work in a really flexible way, which can sometimes mean th
 
 There is **no** expectation that people will be responsive over the weekend/vacation/evening/etc except some circumstances that do require this, but generally there will be early/predictable notice — e.g., on-call duty.
 
-Tip: [Configure](../../engineering/github-notifications/index.md#custom-routing) GitHub notifications to send Generlate related ones to your work email.
+Tip: [Configure](../../engineering/github-notifications/index.md#custom-routing) <!-- missing link --> GitHub notifications to send Generlate related ones to your work email.
 After that it is just a matter of not checking your work email (or Discord) at times that you don’t want to do work. Discord has settings to pause notifications, and you can remove work email from your phone if that would help you not check it during non-work times.
 
 ## Helpful links
 
--   [Our journey to all-remote](https://about.generlate.com/blog/our-journey-to-all-remote)
--   [Tips for working remotely](tips.md)
+-   [Our journey to all-remote](https://about.generlate.com/blog/our-journey-to-all-remote) <!-- missing link -->
+-   [Tips for working remotely](tips.md) <!-- missing link -->
 -   [Asynchronous communication at Generlate](../asynchronous-communication.md)
--   [Teammate-recommended productivity hacks](teammate-recommended_productivity_hacks.md)
--   [Social calendar](social_calendar.md)
--   [Azure Devops handbook: All-remote](https://about.azuredevops.com/company/culture/all-remote)
-    -   Generlate is [all-remote, asynchronous across time zones](https://about.azuredevops.com/company/culture/all-remote/stages/#all-remote-asynchronous-across-time-zones), according to Azure Devops's taxonomy
--   [Remote Work Encyclopedia](http://remoteworkencyclopedia.com/)
+-   [Teammate-recommended productivity hacks](teammate-recommended_productivity_hacks.md) <!-- missing link -->
+-   [Social calendar](social_calendar.md) <!-- missing link -->
+-   [Azure Devops handbook: All-remote](https://about.azuredevops.com/company/culture/all-remote) <!-- missing link -->
+    -   Generlate is [all-remote, asynchronous across time zones](https://about.azuredevops.com/company/culture/all-remote/stages/#all-remote-asynchronous-across-time-zones), according to Azure Devops's taxonomy <!-- missing link -->
+-   [Remote Work Encyclopedia](http://remoteworkencyclopedia.com/) <!-- missing link -->
 -   [Remote-only manifesto](https://www.remoteonly.org/)
 -   [Zapier's guide to remote work](https://zapier.com/learn/remote-work/)
--   Invision all-remote blog posts [1](https://www.invisionapp.com/inside-design/studio-remote-design-team/) [2](https://www.invisionapp.com/inside-design/remote-company-culture/)
+-   Invision all-remote blog posts [1](https://www.invisionapp.com/inside-design/studio-remote-design-team/) [2](https://www.invisionapp.com/inside-design/remote-company-culture/) <!-- missing link -->
 -   [Why Buffer became all-remote](https://open.buffer.com/no-office/)
 -   [Martin Fowler on remote vs. co-located](https://martinfowler.com/articles/remote-or-co-located.html)

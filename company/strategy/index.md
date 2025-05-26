@@ -4,7 +4,7 @@
 
 Our overall purpose is we want to make it so **everyone can code**. A world where everyone, not just ~0.1% of the world population, can code will see faster and more broadly beneficial technological progress. This page describes how we are going to achieve that goal, and the [individual team and org strategies](index.md#per-area-strategy-pages) describe what we're doing in each of our product areas.
 
-Want to help us achieve these goals? [We're hiring!](https://github.com/Generlate/careers)
+Want to help us achieve these goals? [We're hiring!](https://github.com/Generlate/careers) <!-- missing link -->
 
 ### Background
 
@@ -58,7 +58,7 @@ Our [values](../values.md) are the principles and beliefs that help us achieve o
 ### Pricing
 
 -   Trying Generlate (to prove it works and is valuable) is free and (if you want) self-service.
--   If your organization is getting value from Generlate with a lot of users, our [pricing](https://about.Generlate.com/pricing) is designed so that we earn money from you. This lets us invest in improving our product.
+-   If your organization is getting value from Generlate with a lot of users, our [pricing](https://about.generlate.com/pricing) <!-- missing link --> is designed so that we earn money from you. This lets us invest in improving our product.
 -   All users at a given customer are on the same pricing tier. This is simpler than having users at different tiers and encourages us to build things that are broadly valuable.
 
 ## One year vision
@@ -162,30 +162,30 @@ Coding itself is a technology, and we anticipate the technology adoption curve w
 
 ## Per-area strategy pages
 
-Within this overall product strategy, individual product areas set their own goals and roadmaps aligned to the [company OKRs](../goals/2022_q3.md), and each have a strategy page with all the details of what they are working on next and why. There is also an [(currently internal only) presentation](https://docs.google.com/presentation/d/1o3R8WUIhzzRz0x5laTwVcizOzVWrMBe5MCAz74H45Ss/edit#slide=id.gd8d1ce5e98_0_164) with highlights of planned features from all teams.
+Within this overall product strategy, individual product areas set their own goals and roadmaps aligned to the [company OKRs](../goals/2022_q3.md), <!-- missing link --> and each have a strategy page with all the details of what they are working on next and why. There is also an [(currently internal only) presentation](https://docs.google.com/presentation/d/1o3R8WUIhzzRz0x5laTwVcizOzVWrMBe5MCAz74H45Ss/edit#slide=id.gd8d1ce5e98_0_164) <!-- missing link --> with highlights of planned features from all teams.
 
-### [Code Graph](code-graph/index.md)
+### [Code Graph](code-graph/index.md) <!-- missing link -->
 
--   [Search core and Search product](code-graph/search/index.md)
--   [Batch Changes](code-graph/batch-changes/index.md)
--   [Code Intelligence](code-graph/code-intelligence/index.md)
--   [Code Insights](code-graph/code-insights/index.md)
+-   [Search core and Search product](code-graph/search/index.md) <!-- missing link -->
+-   [Batch Changes](code-graph/batch-changes/index.md) <!-- missing link -->
+-   [Code Intelligence](code-graph/code-intelligence/index.md) <!-- missing link -->
+-   [Code Insights](code-graph/code-insights/index.md) <!-- missing link -->
 
-### [Enablement](enablement/index.md)
+### [Enablement](enablement/index.md) <!-- missing link -->
 
--   [Delivery](enablement/delivery/index.md)
+-   [Delivery](enablement/delivery/index.md) <!-- missing link -->
 -   Dev Experience
--   [Frontend Platform](enablement/frontend-platform/index.md)
--   [Repo Management](enablement/repo-management/index.md)
--   [Engineering Education](enablement/engineering-education/index.md)
--   [Handbook](enablement/handbook/index.md)
+-   [Frontend Platform](enablement/frontend-platform/index.md) <!-- missing link -->
+-   [Repo Management](enablement/repo-management/index.md) <!-- missing link -->
+-   [Engineering Education](enablement/engineering-education/index.md) <!-- missing link -->
+-   [Handbook](enablement/handbook/index.md) <!-- missing link -->
 
 ### Cloud
 
--   [Core application](cloud/core-application/index.md)
+-   [Core application](cloud/core-application/index.md) <!-- missing link -->
 -   Cloud SaaS
 -   Growth
-    -   [API docs](cloud/growth/index.md)
--   [Security](cloud/security/index.md)
+    -   [API docs](cloud/growth/index.md) <!-- missing link -->
+-   [Security](cloud/security/index.md) <!-- missing link -->
 -   DevOps/SRE
--   [Extensibility](cloud/extensibility/index.md)
+-   [Extensibility](cloud/extensibility/index.md) <!-- missing link -->

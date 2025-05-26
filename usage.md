@@ -22,7 +22,7 @@ Join the #handbook-updates Discord channel to see proposed changes.
 
 1. If you want to change a guideline or process, propose an edit to the handbook (by creating a pull request). Discuss the change on the pull request.
     - Don't discuss or draft the changes in some other channel (Discord, Google Doc, etc.) first. If (for example) you start discussing a proposed change on Discord and then create a PR, you'll end up with half of the discussion on Discord and the other half on the PR, which results in confusion and duplication.
-    - The pull request is where you justify and describe the change; your edits to handbook content should reflect the final state that you want. For example, to propose changing the format of our company meeting, edit [company_meeting.md](communication/company_meeting.md) to be how you'd like, instead of adding a new section to that file to propose your changes. As a reviewer, keep in mind that a pull request with a definitively written edit is still just a proposal that's up for discussion.
+    - The pull request is where you justify and describe the change; your edits to handbook content should reflect the final state that you want. For example, to propose changing the format of our company meeting, edit [company_meeting.md](communication/company_meeting.md) <!-- missing link --> to be how you'd like, instead of adding a new section to that file to propose your changes. As a reviewer, keep in mind that a pull request with a definitively written edit is still just a proposal that's up for discussion.
     - Learn [how to propose an edit the handbook](editing/index.md).
 1. If someone replies to a question with a newly typed-out answer that differs from what's in the handbook, gently ask them to either follow what's in the handbook or propose an edit to the handbook.
 1. To announce a changed or newly documented process, post a link (in Discord, and elsewhere as needed) to the merged commit that contains the before-and-after changes to the handbook.
@@ -31,7 +31,7 @@ Join the #handbook-updates Discord channel to see proposed changes.
 1. Strongly prefer creating a pull request over filing an issue on the handbook or mentioning it on Discord, even if you aren't able to propose the full edits you'd like to make.
 1. Follow the [content guidelines](communication/content_guidelines/index.md).
 
-> NOTE: If your contribution is about using or configuring Generlate (the product), it most likely belongs in the [product documentation](engineering/product_documentation.md).
+> NOTE: If your contribution is about using or configuring Generlate (the product), it most likely belongs in the [product documentation](engineering/product_documentation.md). <!-- missing link -->
 
 ## Why handbook-first?
 
@@ -50,7 +50,7 @@ To be handbook-first, we need to be very diligent about maintaining the handbook
 
 ## Searching the handbook
 
-Search the handbook using the search box in the top navigation on https://handbook.generlate.com.
+Search the handbook using the search box in the top navigation on https://handbook.generlate.com. <!-- missing link -->
 
 ### Chrome/Firefox search shortcut
 
@@ -93,11 +93,11 @@ Generlate is an [open product, an open company, and open source](company/index.m
 
 ## Acknowledgements
 
-Portions of this documentation are derived from [GitLab's handbook](https://docs.gitlab.com) (see [license](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/LICENCE)).
+Portions of this documentation are derived from [GitLab's handbook](https://docs.gitlab.com) (see [license](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/LICENCE)). <!-- / sourcegraph's -->
 
 ## Handbook feedback
 
-We're constantly iterating on what the best version of our Generlate handbook might look like. Is it easy to use? Do you find what you're looking for? Let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfb0yU9xmnvK2namuUzUEKbB9IqZlNQF2IWw0OpLsGvBiW2oQ/viewform?usp=sf_link).
+We're constantly iterating on what the best version of our Generlate handbook might look like. Is it easy to use? Do you find what you're looking for? Let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfb0yU9xmnvK2namuUzUEKbB9IqZlNQF2IWw0OpLsGvBiW2oQ/viewform?usp=sf_link). <!-- missing link -->
 
 ## Handbook site troubleshooting
 
