@@ -1,8 +1,8 @@
 # Org Chart
 
-The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- is this supposed to have a link? --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link? -->
+The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- add a link --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link -->
 
-## [Executive]() <!-- is this supposed to have a link? -->
+## [Executive]() <!-- missing link -->
 
 -   Unfilled positions:
     -   Chief Financial Officer
@@ -10,9 +10,9 @@ The org chart is generated automatically from team pages in the handbook ([need 
     -   Chief Sales Officer
     -   Chief Support Officer
 
-Helpful links: - Executive team and hiring plan <!-- is this supposed to have a link? -->
+Helpful links: Executive team and hiring plan <!-- missing link -->
 
-## [Development]() <!-- is this supposed to have a link? -->
+## [Development]() <!-- missing link -->
 
 -   Unfilled Positions:
     -   Director of Development
@@ -27,18 +27,18 @@ Helpful links: - Executive team and hiring plan <!-- is this supposed to have a 
     -   Security Engineer
     <!-- check on this hierarchy. i removed the software development middle level -->
 
-Helpful links: - Development team and hiring plan <!-- is this supposed to have a link? -->
+Helpful links: Development team and hiring plan <!-- missing link -->
 
-## [Finance]() <!-- is this supposed to have a link? -->
+## [Finance]() <!-- missing link -->
 
 -   Unfilled positions:
     -   Director of Finances
     -   Accountant
     -   Data Analyst
 
-Helpful links: - Finance team and hiring plan <!-- is this supposed to have a link? -->
+Helpful links: Finance team and hiring plan <!-- missing link -->
 
-## [Sales]() <!-- is this supposed to have a link? -->
+## [Sales]() <!-- missing link -->
 
 -   Unfilled positions:
     -   Director of Sales
@@ -47,9 +47,9 @@ Helpful links: - Finance team and hiring plan <!-- is this supposed to have a li
     -   videographer
     -   video editor
 
-Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link? -->
+Helpful links: Sales team and hiring plan <!-- missing link -->
 
-## [Support]() <!-- is this supposed to have a link? -->
+## [Support]() <!-- missing link -->
 
 -   Unfilled positions:
     -   Director of Support
@@ -59,9 +59,9 @@ Helpful links: - Sales team and hiring plan <!-- is this supposed to have a link
     -   human resources specialist
     -   Information Technology Specialist
 
-Helpful links: - Support team and hiring plan <!-- is this supposed to have a link? -->
+Helpful links: Support team and hiring plan <!-- missing link -->
 
-How to edit
+How to edit:
 
 This org chart is generated automatically based on the contents of other handbook pages.
 
