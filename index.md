@@ -1,3 +1,5 @@
+<!-- change handbook name from 'generlate-handbook' to 'Handbook' -->
+
 The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visibly because we are an [open company](company/index.md#open-company).
 
 The handbook is a living document and we expect every teammate to propose improvements, changes, additions, and fixes to keep it continuously up-to-date and accurate.
@@ -5,7 +7,7 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Editing the handbook](editing/index.md)
 -   [Handbook usage](usage.md)
 -   Handbook feedback <!-- check if this should have a link or what-->
--   [What’s new in the handbook](https://github.com/Generlate/generlate-handbook/issues) if you’d like to see diffs)
+-   [What’s new in the handbook](https://github.com/Generlate/generlate-handbook/issues) (if you’d like to see diffs)
     <!-- check this link works-->
     <!-- figure out what should go in project root and what goes in the company directory-->
 

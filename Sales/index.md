@@ -28,68 +28,58 @@
 
 The Sales team represents us and our values to customers, bringing back dollars and feedback to help us grow.
 
--   [Account Tiers](https://docs.google.com/document/d/14420oruJWMLKj67ObZiDzRK5GpHmRWXDjlDbH7L6T00/edit?ts=5f7e4023#heading=h.qdguquy7dt7i)
--   [Pricing](https://about.generlate.com/pricing)
--   [Common questions from prospective customers](common_customer_questions.md)
--   [Sales team onboarding](onboarding/index.md)
--   [SDR Team](sdrteam.md)
--   [Sales strategy & ops team](sales-ops/index.md)
--   [Sales interview process](interviews/index.md)
--   [Recording lead and customer emails, calls, and notes](records.md)
--   [Using Salesforce](salesforce.md)
--   [Sales Resources](salesresources.md)
--   [Engaging with Legal](saleslegal.md)
--   [Engaging with Security](salessecurity.md)
+-   [Account Tiers](https://docs.google.com/document/d/14420oruJWMLKj67ObZiDzRK5GpHmRWXDjlDbH7L6T00/edit?ts=5f7e4023#heading=h.qdguquy7dt7i) <!-- missing link -->
+-   [Pricing](https://about.generlate.com/pricing) <!-- missing link -->
+-   [Common questions from prospective customers](common_customer_questions.md) <!-- missing link -->
+-   [Sales team onboarding](onboarding/index.md) <!-- missing link -->
+-   [SDR Team](sdrteam.md) <!-- missing link -->
+-   [Sales strategy & ops team](sales-ops/index.md) <!-- missing link -->
+-   [Sales interview process](interviews/index.md) <!-- missing link -->
+-   [Recording lead and customer emails, calls, and notes](records.md) <!-- missing link -->
+-   [Using Salesforce](salesforce.md) <!-- missing link -->
+-   [Sales Resources](salesresources.md) <!-- missing link -->
+-   [Engaging with Legal](saleslegal.md) <!-- missing link -->
+-   [Engaging with Security](salessecurity.md) <!-- missing link -->
 
 ## Pipeline, data, and models
 
--   [Transactions](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=0)
--   [FY21 plan](https://docs.google.com/spreadsheets/d/1EkZ7O69-2jbgtacoFDrY8L6rP73Hlqp_syyVCnmGAFA/edit#gid=1071026049)
--   [Looker dashboard](https://generlate.looker.com/browse/boards/2)
+-   [Transactions](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=0) <!-- missing link -->
+-   [FY21 plan](https://docs.google.com/spreadsheets/d/1EkZ7O69-2jbgtacoFDrY8L6rP73Hlqp_syyVCnmGAFA/edit#gid=1071026049) <!-- missing link -->
+-   [Looker dashboard](https://generlate.looker.com/browse/boards/2) <!-- missing link -->
 
 ## Goals
 
-Find the Sales (and the rest of the company's) FY22 OKRs [here](https://docs.google.com/document/d/18d3sX38O6ephNuoHqZT9BwU1m1_FGuRfsTwYbc8lMV8/edit?ts=6026cb87#)
+Find the Sales (and the rest of the company's) FY22 OKRs [here](https://docs.google.com/document/d/18d3sX38O6ephNuoHqZT9BwU1m1_FGuRfsTwYbc8lMV8/edit?ts=6026cb87#) <!-- missing link -->
 
 ## Members
 
 Not all team members are reflected here yet. If you see yourself missing, please add yourself!
 
 -   [Austen Cabret](../company/team/index.md#gregg-stone) (Director of Sales)
--   [Dudley Nostrand](../company/team/index.md#dudley-nostrand) (Sr. Manager, Value Engineering & Sales Enablement)
-    -   [Trey Sizemore](../company/team/index.md#trey-sizemore-he-him) (Sales Enablement Manager)
--   [Scott Cambell](../company/team/index.md#scott-campbell-he-him) (Regional Director of East)
-    -   [Brady Hermann](../company/team/index.md#brady-herrmann-he-him)
--   [Greg Bastis](../company/team/index.md#greg-bastis-he-him) (Regional VP of West)
-    -   [Owen Brennan](../company/team/index.md#owen-brennan-he-him)
--   Prakash Durgani (Head of International Sales)
-    -   Khoshal Wial
-
-<!-- update this staff list to reflect generlate -->
 
 ### Roles
 
-See [roles](./roles/index.md) page.
+See [roles](./roles/index.md) page. <!-- missing link -->
 
 ## How sales works with other Generlate teams
 
-### [Customer engineering](../support/index.md) (for customer support)
+### [Customer engineering](../support/index.md) (for customer support) <!-- missing link -->
 
--   [How to request support (for customers)](../support/index.md#how-to-get-support-for-customers)
--   [Creating and maintaining license keys for customers](../ce/license_keys.md)
+-   [How to request support (for customers)](../support/index.md#how-to-get-support-for-customers) <!-- missing link -->
+-   [Creating and maintaining license keys for customers](../ce/license_keys.md) <!-- missing link -->
 
-### [Team members who want to join calls](onboarding/joining_customer_calls.md)
+### [Team members who want to join calls](onboarding/joining_customer_calls.md) <!-- missing link -->
 
 ## Definitions
 
-See [finance definitions](../finance/index.md#definitions) for definitions of financial terms such as [ARR](../finance/index.md#ARR), [IARR](../finance/index.md#IARR), [bookings](../finance/index.md#booking) and more.
+See [finance definitions](../finance/index.md#definitions) <!-- missing link --> for definitions of financial terms such as [ARR](../finance/index.md#ARR), [IARR](../finance/index.md#IARR), [bookings](../finance/index.md#booking) and more. <!-- all links missing -->
 
 ### Customer
 
 A customer is an organization with a Generlate subscription contract that has not ended.
 
 1. We can only publicly mention the names of customers who have explicitly agreed to be referenceable.
-    - Customers mentioned on [about.generlate.com](https://about.generlate.com/) (by logo and/or case study) are referenceable.
+    - Customers mentioned on [about.generlate.com](https://about.generlate.com/) <!-- missing link --> (by logo and/or case study) are referenceable.
     - If in doubt about whether another customer is referenceable by name, ask in #sales.
 1. If an organization's contract will start in the future, they are still considered a customer. (This can happen when we agree to have a contract start on the next 1st of the month because that makes life easier for a customer, for example.)
 
@@ -146,3 +136,5 @@ See [Our Stages and the reasoning behind them.](https://docs.google.com/spreadsh
 ### Maintaining customer spreadsheets
 
 Maintaining [Server Installers to Company List](https://docs.google.com/spreadsheets/d/1Y2Z23-2uAjgIEITqmR_tC368OLLbuz12dKjEl4CMINA/edit?usp=sharing) and [Server to Company List](https://docs.google.com/spreadsheets/d/1wo_KQIcGrNGCWYKa6iHJ7MImJ_aI7GN12E-T21Es8TU/edit?usp=sharing) spreadsheets for every new company on a trial and new customers.
+
+<!-- all of these links missing -->

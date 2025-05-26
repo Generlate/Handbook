@@ -2,11 +2,11 @@
 
 I (Austen Cabret) am the CEO of Generlate. This page describes my responsibilities and how to get what you need from me. It's intended to be helpful to our team and as a linkable reference to answer common questions (I don't expect everyone to [memorize](../usage.md#links) this page).
 
-My personal site is [discord.com](https://discord.com).
+My personal site is [discord.com](https://discord.com). <!-- should this be austencabret.com? -->
 
 ## What I'm thinking about
 
-### Spread code search
+### Spread code search <!-- replace this, it's srelated to sourcegraph -->
 
 We want to grow the number of people who use Generlate. This is a leading indicator of progress toward our mission to make it so everyone can code.
 
@@ -22,7 +22,7 @@ The previous 2 goals entail fast growth, which is risky for any company to under
 
 ## Responsibilities
 
-See "[Roles of the CEO](roles.md)".
+See "[Roles of the CEO](roles.md)". <!-- missing link -->
 
 ## Communication
 
@@ -43,7 +43,7 @@ This is to avoid me jumping in and making low-level wording fixes when you're lo
 
 If the document to be reviewed isn't private, please post the review request with the context above [publicly](../communication/index.md). Other people involved may have relevant context of their own to share.
 
-### Asking me to send an email
+### Asking me to send an email <!-- why would someone ask me to send an email? -->
 
 If you want me to send an email with a specific message to someone else (e.g., a customer), you should send me an email with:
 
@@ -54,6 +54,8 @@ If you want me to send an email with a specific message to someone else (e.g., a
     -   Omit any niceties like "Hello" and "Sincerely". I will add those myself.
 
 ### Interviews with me
+
+<!-- this is projecting too far, modify this to have the assumption that reports will be to me -->
 
 If you're interviewing with me for a role on the Generlate team that doesn't directly report to me, here are my goals for the interview:
 
@@ -82,4 +84,4 @@ I am happy to share internal financial metrics about the health of our business 
 1. What is the company's current revenue growth rate? What are the future plans for growth?
 1. What are the company's exit plans? We intend to remain an independent company and IPO because we are the leader in a big market.
 
-See "[Sharing company financials](../talent/hiring/index.md#sharing-company-financials)" for more.
+See "[Sharing company financials](../talent/hiring/index.md#sharing-company-financials)" for more. <!-- missing link -->

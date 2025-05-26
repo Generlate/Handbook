@@ -12,13 +12,11 @@ The finance & accounting team is responsible for helping Generlate acquire and a
 
 ### Members
 
--   [Dan Adler](../company/team/index.md#dan-adler-he-him), VP Operations
--   [Tommy O Donnell](../company/team/index.md#tommy-o-donnell-he-him), Manager, Financial Planning & Analysis
--   [Kendrick Morris](../company/team/index.md#kendrick-morris-he-him), Finance & Operations Analyst
+-   [Austen Cabret](../company/team/index.md#dan-adler-he-him), Finance Director
 
 ### Roles
 
-See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the Finance team.
+See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the Finance team. <!-- too early for careers? -->
 
 ## Contact
 
@@ -62,11 +60,11 @@ A fiscal year is a one-year period that corporations like Generlate use for acco
 
 -   Financial statements
 -   Metrics
-    -   Quarterly and monthly [IARR](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=2006715807)
-    -   [ARR](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=1460993554)
-    -   [Annualized net retention](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0)
-    -   [Payback period & CAC efficiency](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0)
-    -   [Burn ratio & ARR per employee](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0)
+    -   Quarterly and monthly [IARR](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=2006715807) <!-- missing link -->
+    -   [ARR](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=1460993554) <!-- missing link -->
+    -   [Annualized net retention](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0) <!-- missing link -->
+    -   [Payback period & CAC efficiency](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0) <!-- missing link -->
+    -   [Burn ratio & ARR per employee](https://docs.google.com/spreadsheets/d/1mO0Sx8hv-RKZkwgF-6HWjQnCbGmowdvej9DuntKleNs/edit#gid=0) <!-- missing link -->
 
 ## Definitions
 
@@ -74,9 +72,9 @@ A fiscal year is a one-year period that corporations like Generlate use for acco
 
 Annual Recurring Revenue (ARR) is the dollar value of contracted recurring revenue in a (normalized) one-year period.
 
-ARR includes committed [bookings](#booking) with contract start dates that fall in the first 15 days of the following calendar month. This allows EelBlue sales team members to get credit for renewals and expansions that may fall in the (near) future. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR timing examples](https://docs.google.com/document/d/1SdUzcW8UUUgSjawIdjPw2bDBJ-j0Fjo3Et0r6yOnikE/edit).
+ARR includes committed [bookings](#booking) with contract start dates that fall in the first 15 days of the following calendar month. This allows EelBlue sales team members to get credit for renewals and expansions that may fall in the (near) future. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR timing examples](https://docs.google.com/document/d/1SdUzcW8UUUgSjawIdjPw2bDBJ-j0Fjo3Et0r6yOnikE/edit). <!-- missing link -->
 
-Furthermore, if the Company enters into a multi-year contract with a customer and the out-year billings are contractually locked in, then we will recognize ARR on a straight-line basis. If there is a term or clause in the contract that provides for an opt-out arrangement, then we will only recognize the portion of ARR that is contractually guaranteed. This policy allows Generlate sales team members to get credit for deals with higher pricing in the later portion of the contractual period. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR examples](https://docs.google.com/document/d/1H-qNQTzlDnnr6uNP4NcFFYwkL-ILyoQlBW9qEaYglg0/edit).
+Furthermore, if the Company enters into a multi-year contract with a customer and the out-year billings are contractually locked in, then we will recognize ARR on a straight-line basis. If there is a term or clause in the contract that provides for an opt-out arrangement, then we will only recognize the portion of ARR that is contractually guaranteed. This policy allows Generlate sales team members to get credit for deals with higher pricing in the later portion of the contractual period. Exceptions to this require written approval from the VP of Operations and the VP of Sales. Please see [ARR examples](https://docs.google.com/document/d/1H-qNQTzlDnnr6uNP4NcFFYwkL-ILyoQlBW9qEaYglg0/edit). <!-- missing link -->
 
 ### IARR
 
@@ -120,16 +118,16 @@ Reach out to the [Finance team](#team) for an introduction if needed.
 
 ### Accounts Payable & Expenses
 
--   [Paying Company bills](payables.md)
--   [AP Policy](ap.md)
--   [Submitting an invoice (teammates based outside of US)](invoices.md)
--   [Submitting reimbursable expenses](expenses.md)
--   [Spending Company Money](spending-company-money.md)
+-   [Paying Company bills](payables.md) <!-- missing link -->
+-   [AP Policy](ap.md) <!-- missing link -->
+-   [Submitting an invoice (teammates based outside of US)](invoices.md) <!-- missing link -->
+-   [Submitting reimbursable expenses](expenses.md) <!-- missing link -->
+-   [Spending Company Money](spending-company-money.md) <!-- missing link -->
 
 ### Accounts Receivable
 
--   [AR Policy](ar.md)
+-   [AR Policy](ar.md) <!-- missing link -->
 
 ### Fixed Assets
 
--   [Fixed Asset Policy](https://docs.google.com/document/d/155anVJgInRempR92LiiOwOIf2JJB5jj3b9ktrp8nznY/edit)
+-   [Fixed Asset Policy](https://docs.google.com/document/d/155anVJgInRempR92LiiOwOIf2JJB5jj3b9ktrp8nznY/edit) <!-- missing link -->

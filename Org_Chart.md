@@ -2,7 +2,7 @@
 
 The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- add a link --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link -->
 
-## [Executive](Executive/index.md) <!-- missing link -->
+## [Executive](Executive/index.md)
 
 -   Unfilled positions:
     -   Chief Financial Officer
@@ -12,7 +12,7 @@ The org chart is generated automatically from team pages in the handbook ([need 
 
 Helpful links: Executive team and hiring plan <!-- missing link -->
 
-## [Development](Development/index.md) <!-- missing link -->
+## [Development](Development/index.md)
 
 -   Unfilled Positions:
     -   Director of Development
@@ -29,7 +29,7 @@ Helpful links: Executive team and hiring plan <!-- missing link -->
 
 Helpful links: Development team and hiring plan <!-- missing link -->
 
-## [Finance](Finance/index.md) <!-- missing link -->
+## [Finance](Finance/index.md)
 
 -   Unfilled positions:
     -   Director of Finances
@@ -38,7 +38,7 @@ Helpful links: Development team and hiring plan <!-- missing link -->
 
 Helpful links: Finance team and hiring plan <!-- missing link -->
 
-## [Sales](Sales/index.md) <!-- missing link -->
+## [Sales](Sales/index.md)
 
 -   Unfilled positions:
     -   Director of Sales
@@ -49,7 +49,7 @@ Helpful links: Finance team and hiring plan <!-- missing link -->
 
 Helpful links: Sales team and hiring plan <!-- missing link -->
 
-## [Support](Support/index.md) <!-- missing link -->
+## [Support](Support/index.md)
 
 -   Unfilled positions:
     -   Director of Support

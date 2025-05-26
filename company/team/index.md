@@ -2,14 +2,14 @@
 
 This page contains brief bios of our team. Teammates may also have a personal documentation page in this directory that is named according to their Generlate email address (e.g. you@generlate.com -> you.md).
 
-For help adding yourself to this page, check out [these instructions](../../editing/add-yourself-to-team-page.md).
+For help adding yourself to this page, check out [these instructions](../../editing/add-yourself-to-team-page.md). <!-- missing link -->
 
 **You can find the bio template below (all fields are optional).**
 
 ## Full Name
 
 -   Role(s)
--   City, region, country, country flag emoji (optional: add yourself to [the team locations map](locations.md)!)
+-   City, region, country, country flag emoji (optional: add yourself to [the team locations map](locations.md)!) <!-- missing link -->
 -   GitHub: username
 -   [you@generlate.com](mailto:you@generlate.com), other social media links (if any)
 -   Name pronunciation (record an audio file from your phone [here](https://www.name-coach.com/))
@@ -20,7 +20,7 @@ For help adding yourself to this page, check out [these instructions](../../edit
 <!-- check where the position link is supposed to go to -->
 
 -   [Founder, Director of Development, Director of Sales, Director of Support, Director of Finance]()
--   Greenacres, FL, USA
+-   Greenacres, FL, USA 🇺🇸
 -   GitHub: [https://github.com/Generlate](https://github.com/Generlate) Generlate
 -   [austencabret@generlate.com](mailto: austencabret@generlate.com), [https://linktr.ee/AustenCabret](https://linktr.ee/AustenCabret)
 -   I have always been interested in the way people interact with technology. My attention is currently
@@ -34,3 +34,4 @@ For help adding yourself to this page, check out [these instructions](../../edit
     Aside from Generlate, architecture, transhumanism, politics, fitness, anime, creating a metadata abstractor,
     additive manufacturing, automation, VR/AR, neuralink, modular capability, quantum computing,
     non-Euclidean geometry and hive minds are all interests of mine.
+    <!-- rewrite this bio -->

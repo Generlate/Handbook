@@ -8,10 +8,10 @@ The goal of these content guidelines is to help us to:
 
 ## Sections
 
--   [Voice and tone](./voice_and_tone.md) helps us speak with a consistent voice.
--   [Actionable language](./actionable_language.md) gives us specific patterns to follow in product and UX copywriting.
--   [Style & mechanics](./style_and_mechanics.md) helps us be clear and consistent in our writing.
--   [Terminology guidelines](./terminology_guidelines.md) give us a source of truth for which words to use.
+-   <!-- missing link --> [Voice and tone](./voice_and_tone.md) helps us speak with a consistent voice.
+-   <!-- missing link --> [Actionable language](./actionable_language.md) gives us specific patterns to follow in product and UX copywriting.
+-   <!-- missing link --> [Style & mechanics](./style_and_mechanics.md) helps us be clear and consistent in our writing.
+-   <!-- missing link --> [Terminology guidelines](./terminology_guidelines.md) give us a source of truth for which words to use.
 
 ## Effectiveness over correctness
 

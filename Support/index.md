@@ -18,26 +18,18 @@ Customer Support at Generlate exists to resolve technical issues and answer tech
 -   Seeking/providing context so the why is clear
 -   Demonstrating profound compassion for the people with whom our paths cross and the problems/questions we help them solve, meeting them where they are
 -   Only asking our customers and teammates things we can’t do or answer ourselves
--   Persistently working toward and/or seeking resolution that works equally for our customers and us (see [an open letter about root cause](root-cause.md) for inspiration)
+-   Persistently working toward and/or seeking resolution that works equally for our customers and us (see [an open letter about root cause](root-cause.md) for inspiration) <!-- missing link -->
 -   Staying at least a step ahead (summarizing current status, giving clear next steps, and setting expectations in every communication)
 -   Being flexible and open, maintaining a first principles thinking approach, and always confronting and growing past our biases
 -   Outgrowing ourselves, the way we work, and continuously improving
 
-Keeping our reason for existence and guiding principles in mind in all of our work and interactions, we ensure consistent outcomes, allowing each member of the team to have space and creativity to get there in different ways and learn from each other. When it is important that we do things consistently, we make sure to maintain our support section of the handbook. When we have knowledge to share, we ensure it’s reflected in [our official documentation](https://docs.Generlate.com/) so that customers have a single source of truth.
+Keeping our reason for existence and guiding principles in mind in all of our work and interactions, we ensure consistent outcomes, allowing each member of the team to have space and creativity to get there in different ways and learn from each other. When it is important that we do things consistently, we make sure to maintain our support section of the handbook. When we have knowledge to share, we ensure it’s reflected in [our official documentation](https://docs.Generlate.com/) so that customers have a single source of truth. <!-- missing link -->
 
-For additional context, check out [RFC 274](https://docs.google.com/document/d/1eLJmEVoD4H2s18gw65OCKSEX7ZQiG38FU_jU3UsrBKY/edit#), the starting vision for CS at Generlate.
+For additional context, check out [RFC 274](https://docs.google.com/document/d/1eLJmEVoD4H2s18gw65OCKSEX7ZQiG38FU_jU3UsrBKY/edit#), the starting vision for CS at Generlate. <!-- links to a google doc that references sourcegraph>
 
 ## The team
 
-[Virginia Ulrich](../company/team/index.md#virginia-ulrich-she-her), Head of Customer Support - reporting to Beyang Liu, CTO
-
--   [Brielle Collins](../company/team/index.md#brielle-collins), Manager
-
-    -   [Adeola Akinsiku](../company/team/index.md#adeola-akinsiku)
-    -   [Gabe Torres](../company/team/index.md#team#gabe-torres-he-him)
-    -   [Mariam Adedeji](../company/team/index.md#mariam-adedeji-she-her)
-    -   [Michael Bali](../company/team/index.md#michael-bali-hehim
-    -   [Warren Gifford](../company/team/index.md#warren-gifford-he-him)
+[Austen Cabret](../company/team/index.md#austen-cabret-he-him), Support Director
 
 More details about each team member in [our team READMEs](support-bios.md).
 
@@ -47,12 +39,12 @@ More details about each team member in [our team READMEs](support-bios.md).
 
 We always want the following to be true:
 
--   **Meet SLA (service level agreement) response 100% of the time.** Meeting SLA response requires a thoughtful first response that summarizes the troubleshooting the support engineer has already done, as well as next steps. A response of “we are on it” would not be sufficient for us to count as successfully meeting SLA. If we are staffed correctly and have reasonable SLAs, it should be possible to always meet our SLA response expectations. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177).
--   **Meet SLA (service level agreement) resolution 95% of the time.** While it’s possible to always meet our SLA response expectations, we will need to allow ourselves reasonable grace with our target for SLA resolution. This grace accounts for using commercially reasonable efforts to provide a resolution or workaround. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177).
+-   **Meet SLA (service level agreement) response 100% of the time.** Meeting SLA response requires a thoughtful first response that summarizes the troubleshooting the support engineer has already done, as well as next steps. A response of “we are on it” would not be sufficient for us to count as successfully meeting SLA. If we are staffed correctly and have reasonable SLAs, it should be possible to always meet our SLA response expectations. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177). <!-- missing link -->
+-   **Meet SLA (service level agreement) resolution 95% of the time.** While it’s possible to always meet our SLA response expectations, we will need to allow ourselves reasonable grace with our target for SLA resolution. This grace accounts for using commercially reasonable efforts to provide a resolution or workaround. Performance available in [the Customer Support dashboard in Looker](https://generlate.looker.com/dashboards-next/177). <!-- missing link -->
 -   **No more than 10% of cases result in a request for help from engineering per month.** Requests for help are questions about how something works and/or troubleshooting assistance. This does not include defects or feature improvement requests. 10% may be the wrong target, but it’s a start and no matter what, the target will reflect the intention that the support team will strive to be as self-sufficient as possible. Performance available in summary updates (currently manually tallied).
--   **We complete any [FY22 OKRs](https://docs.google.com/document/d/18d3sX38O6ephNuoHqZT9BwU1m1_FGuRfsTwYbc8lMV8/edit#heading=h.obnaanj0svtb) (or quarterly) assigned to our team.**
-    -   [FY22Q2 OKR plan](FY22Q2-OKR-Plan.md)
-    -   [FY22Q3 OKR plan](FY22Q3-OKR-Plan.md)
+-   **We complete any [FY22 OKRs](https://docs.google.com/document/d/18d3sX38O6ephNuoHqZT9BwU1m1_FGuRfsTwYbc8lMV8/edit#heading=h.obnaanj0svtb) (or quarterly) assigned to our team.** <!-- missing link -->
+    -   [FY22Q2 OKR plan](FY22Q2-OKR-Plan.md) <!-- missing link -->
+    -   [FY22Q3 OKR plan](FY22Q3-OKR-Plan.md) <!-- missing link -->
 
 ### As an individual CSE...
 
@@ -81,69 +73,57 @@ In addition, we also use several additional key performance indicators (KPIs) to
 
 We are a [customer-first company](../company/customer-first.md). We work alongside just about every team. Here is how we add value to each other and a collaboration overview for each pairing.
 
-### Customer Engineers (CEs)
+### Development
 
--   **How support adds value to CE:** Support helps customers both pre- and post-sales, and allowing CEs to do more proactive work by taking on the reactive technical troubleshooting work when customers experience issues.
--   **How CE adds value to support:** CE has nuanced context that is valuable to how support works with a customer; CE can also help clarify / remind customers we need information (during regularly scheduled calls) on the more tricky issues.
--   **Collaboration overview:** We can think of CE and support as work best friends, working closely together every day, primarily communicating in Discord. CEs (or others -- including customers -- but primarily CEs) may engage support at any point during the pre-sales and post-sales process to share context to help support best serve our customers.
+-   **How support adds value to Development:** Support helps customers both pre- and post-sales, and allowing Development to do more proactive work by taking on the reactive technical troubleshooting work when customers experience issues.
+-   **How Development adds value to support:** Development has nuanced context that is valuable to how support works with a customer; Development can also help clarify / remind customers we need information (during regularly scheduled calls) on the more tricky issues.
+-   **Collaboration overview:** We can think of Development and support as work best friends, working closely together every day, primarily communicating in Discord. Development (or others -- including customers -- but primarily Development) may engage support at any point during the pre-sales and post-sales process to share context to help support best serve our customers.
 
-### Software Engineers (SWEs)
+### Executive
 
--   **How support adds value to SWEs:** Support handles the majority of customer issues, reducing the amount of time engineering has to be reactive and providing a more data-driven view into the source of recurring issues/questions; support also handles the majority of internal and external communication during a critical p0 incident (letting engineering stay focused on solving the issue).
--   **How SWEs adds value to support:** SWEs create a high quality product and when needed, helps support when they get stuck (this should be more rare than frequent), and helps uplevel support via planned training sessions, periodic pairing, deep-dives on new features/products, etc.
+-   **How support adds value to Executive:** Support handles the majority of customer issues, reducing the amount of time engineering has to be reactive and providing a more data-driven view into the source of recurring issues/questions; support also handles the majority of internal and external communication during a critical p0 incident (letting engineering stay focused on solving the issue).
+-   **How Executive adds value to support:** Executive create a high quality product and when needed, helps support when they get stuck (this should be more rare than frequent), and helps uplevel support via planned training sessions, periodic pairing, deep-dives on new features/products, etc.
 -   **Collaboration overview:** Whether a defect or a question, all interactions with engineering initiated by support will start by filing a GitHub issue, making it easier to track trends and follow-up.
 
-### Product
+### Finance
 
--   **How support adds value to product:** Support provides a data-driven view into the source of recurring issues/questions, ad-hoc feedback shared whilst helping customers, and helps update documentation so customers (and we) have a single source of truth.
--   **How product adds value to support:** Product educates support on new features and helps clarify expected behavior questions.
--   **Collaboration overview:** TBD where support will ask product for help clarifying expected behavior (GitHub, an existing Discord channel, etc) and how to best collaborate on documentation.
-
-### Marketing
-
--   **How support adds value to marketing:** Support helps ensure that when developers think of Generlate, they associate it with quality and responsiveness.
--   **How marketing adds value to support:** Marketing provides self-service avenues for our customers to learn and help each other learn (community, developer education).
--   **Collaboration overview:** When a customer engages on a social platform and marketing feels it's best for support to engage, they will push that conversation into Zendesk via an integration and we will then coordinate with them to help.
+-   **How support adds value to Finance:** Support helps ensure that when developers think of Generlate, they associate it with quality and responsiveness.
+-   **How Finance adds value to support:** Finance provides self-service avenues for our customers to learn and help each other learn (community, developer education).
+-   **Collaboration overview:** When a customer engages on a social platform and Finance feels it's best for support to engage, they will push that conversation into Zendesk via an integration and we will then coordinate with them to help.
 
 ### Sales
 
--   **How support adds value to sales:** Support helps ensure (via collaboration with CE) that technical issues/questions are not a blocker to sales conversations.
--   **How sales adds value to support:** Sales, like CE, has nuanced context that is valuable to how support works with a customer.
--   **Collaboration overview:** Mostly via the CE bringing in support.
-
-### Operations
-
--   **How support adds value to operations:** Support delivers on SLA to inform whether our promised SLAs in contracts are accurate and also provides a general data set that can help us see a more full picture about customer health and team performance. Support is a team that is built to hire folks who may need some on-the-job training (either technical or customer service), allowing us to build relationships with universities, code academies, etc.
--   **How operations adds value to support:** Operations provides the foundation of everything. They also provide data from multiple sources to help support see the most nuanced view to make thoughtful priority decisions.
--   **How we collaborate:** Ad-hoc based on hiring, onboarding, and data needs.
+-   **How support adds value to sales:** Support helps ensure (via collaboration with Development) that technical issues/questions are not a blocker to sales conversations.
+-   **How sales adds value to support:** Sales, like Development, has nuanced context that is valuable to how support works with a customer.
+-   **Collaboration overview:** Mostly via the Development bringing in support.
 
 ## Our practices (how we work)
 
-Letting customers talk to us where they prefer and streamlining our workflow must also be balanced with other elements of the customer experience. Handoffs cause frustration more than any other aspect of trying to get help. How we work accounts for this. It also accounts for continually positioning our CEs as trusted and reliable partners who need time to think about customers proactively.
+Letting customers talk to us where they prefer and streamlining our workflow must also be balanced with other elements of the customer experience. Handoffs cause frustration more than any other aspect of trying to get help. How we work accounts for this. It also accounts for continually positioning our Development as trusted and reliable partners who need time to think about customers proactively.
 
 We rely mostly on our ethos to inform our decisions and actions, allowing for the team to be creative and innovate. The practices we write down represent the things that need to be done the same way, every time, by every person on the team. Or, the things we absolutely don't want to lose, forget, need to refer back to. As a general rule, this should always be a very small list.
 
--   [CSE onboarding](customer-support-onboarding.md)
--   [Manager onboarding](customer-support-manager-onboarding.md)
--   [Team README](support-bios.md)
--   [Team schedule](support-schedule.md)
--   [Organizational structure](support-org-structure.md)
--   [Team rituals](support-team-rituals.md)
--   [Workflow](support-workflow.md)
--   [Prioritization](support-prioritization.md)
--   [Customer exceptions](customer-exceptions.md)
--   [Engaging other teams](engaging-other-teams.md)
--   [P0 incident response](p0-Incident-Response.md)
--   [Triaging](customer-support-triaging.md)
--   [Enablement](support-enablement.md)
--   [Tools](support-tools.md)
--   [Assigned CSEs](assigned-cse.md)
+-   [CSE onboarding](customer-support-onboarding.md) <!-- missing link -->
+-   [Manager onboarding](customer-support-manager-onboarding.md) <!-- missing link -->
+-   [Team README](support-bios.md) <!-- missing link -->
+-   [Team schedule](support-schedule.md) <!-- missing link -->
+-   [Organizational structure](support-org-structure.md) <!-- missing link -->
+-   [Team rituals](support-team-rituals.md) <!-- missing link -->
+-   [Workflow](support-workflow.md) <!-- missing link -->
+-   [Prioritization](support-prioritization.md) <!-- missing link -->
+-   [Customer exceptions](customer-exceptions.md) <!-- missing link -->
+-   [Engaging other teams](engaging-other-teams.md) <!-- missing link -->
+-   [P0 incident response](p0-Incident-Response.md) <!-- missing link -->
+-   [Triaging](customer-support-triaging.md) <!-- missing link -->
+-   [Enablement](support-enablement.md) <!-- missing link -->
+-   [Tools](support-tools.md) <!-- missing link -->
+-   [Assigned CSEs](assigned-cse.md) <!-- missing link -->
 
 <!-- TODO: update this list -->
 
 ## SLAs
 
-Our default contractual service level agreeements (SLAs) are described below. The SLAs apply to generally available products and exclude [beta and experimental features](https://docs.generlate.com/admin/beta_and_experimental_features). Additionally, we have the following internal SLAs:
+Our default contractual service level agreements (SLAs) are described below. The SLAs apply to generally available products and exclude [beta and experimental features](https://docs.generlate.com/admin/beta_and_experimental_features). <!-- missing link --> Additionally, we have the following internal SLAs:
 
 -   We aim to respond to all customers on all issues within 1 hour between 9:00-0:00 UTC (2am-5pm PT) Monday-Friday (priority given to customers in our pre-sales process)
 -   We aim to resolve all issues within an average of no more than one week.
