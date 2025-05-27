@@ -1,12 +1,12 @@
-# CEO
+# How to work with the CEO
 
 I (Austen Cabret) am the CEO of Generlate. This page describes my responsibilities and how to get what you need from me. It's intended to be helpful to our team and as a linkable reference to answer common questions (I don't expect everyone to [memorize](../usage.md#links) this page).
 
-My personal site is [discord.com](https://discord.com). <!-- should this be austencabret.com? -->
+My personal site is [austencabret.com](https://austencabret.com).
 
-## What I'm thinking about
+## What I'm thinking about <!-- remove this part -->
 
-### Spread code search <!-- replace this, it's srelated to sourcegraph -->
+### Spread code search <!-- replace this, it's related to sourcegraph -->
 
 We want to grow the number of people who use Generlate. This is a leading indicator of progress toward our mission to make it so everyone can code.
 

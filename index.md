@@ -17,10 +17,8 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Asynchronous communication](company/asynchronous-communication.md)
 -   [Strategy](company/strategy/index.md)
 -   [Goals](company/goals/index.md)
--   [Team](company/team/index.md)
+-   [People Directory](company/team/index.md)
     -   [Org Chart](Org_Chart.md)
-    -   [Teammates](company/team/index.md) <!-- figure out why this links to the same place as "Team" and if I should change the link or delete this -->
-    -   Careers <!-- link this to a job board. To start, this should be removed because I don't have a job to offer -->
 -   [CEO](ceo/index.md)
 -   [Communication](communication/index.md)
     -   [Content guidelines](communication/content_guidelines/index.md)

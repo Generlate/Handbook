@@ -10,12 +10,12 @@ These places are the source of truth for information at Generlate. Information i
 
 <!-- TODO: make this match whatever Sphinx makes as the url -->
 
--   [Documentation](https://docs.generlate.com) <!-- missing link -->
+-   [Documentation](https://www.generlate.com/docs)
 -   [Generlate/Generlate repository](https://github.com/Generlate/Generlate)
 -   [Generlate/about repository](https://github.com/Generlate/Generlate) <!-- why are there two? references to the same repo-->
-    -   [about.Generlate.com](https://about.Generlate.com) <!-- missing link -->
+    -   [generlate.com/about](https://www.generlate.com/about)
     -   [Generlate handbook](../index.md)
-    -   [Generlate blog](https://about.Generlate.com/blog) <!-- link to generlate.com's new? the youtube channel? -->
+    -   [Generlate YouTube Channel](https://www.youtube.com/@generlate/videos)
 -   [Creating a working group for cross-team projects](working-group.md) <!-- missing link -->
 -   [Roadmap](../product/index.md#roadmap) <!-- missing link -->
 -   [Issue tracker](https://github.com/Generlate/Generlate) <!-- why does this just go to generlate repo? -->

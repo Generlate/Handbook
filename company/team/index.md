@@ -17,7 +17,10 @@ For help adding yourself to this page, check out [these instructions](../../edit
 
 ## Austen Cabret
 
+<!-- add person picture -->
 <!-- check where the position link is supposed to go to -->
+
+![Picture of Austen Cabret](https://www.generlate.com/team/austen-cabret)
 
 -   [Founder, Director of Development, Director of Sales, Director of Support, Director of Finance]()
 -   Greenacres, FL, USA 🇺🇸
