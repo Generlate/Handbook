@@ -4,7 +4,7 @@
 
 Our overall purpose is we want to make it so **everyone can code**. A world where everyone, not just ~0.1% of the world population, can code will see faster and more broadly beneficial technological progress. This page describes how we are going to achieve that goal, and the [individual team and org strategies](index.md#per-area-strategy-pages) describe what we're doing in each of our product areas.
 
-Want to help us achieve these goals? [We're hiring!](https://github.com/Generlate/careers) <!-- missing link -->
+Want to help us achieve these goals? [Join Our Discord!](https://discord.com/channels/879249342177898537/879249344388280332)
 
 ### Background
 
@@ -58,7 +58,7 @@ Our [values](../values.md) are the principles and beliefs that help us achieve o
 ### Pricing
 
 -   Trying Generlate (to prove it works and is valuable) is free and (if you want) self-service.
--   If your organization is getting value from Generlate with a lot of users, our [pricing](https://about.generlate.com/pricing) <!-- missing link --> is designed so that we earn money from you. This lets us invest in improving our product.
+-   If your organization is getting value from Generlate with a lot of users, our [pricing](https://www.generlate.com/pricing) is designed so that we earn money from you. This lets us invest in improving our product.
 -   All users at a given customer are on the same pricing tier. This is simpler than having users at different tiers and encourages us to build things that are broadly valuable.
 
 ## One year vision

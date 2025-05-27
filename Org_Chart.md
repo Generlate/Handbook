@@ -1,6 +1,6 @@
 # Org Chart
 
-The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- add a link --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--missing link -->
+The org chart is generated automatically from team pages in the handbook ([need to edit it?]()). <!-- add a link --> Generlate teammates can see a complete and up-to-date org chart for the entire company in [BambooHR](). <!--dont use bamboohr -->
 
 ## [Executive](Executive/index.md)
 
@@ -10,56 +10,56 @@ The org chart is generated automatically from team pages in the handbook ([need 
     -   Chief Sales Officer
     -   Chief Support Officer
 
-Helpful links: Executive team and hiring plan <!-- missing link -->
+Helpful links: [Executive team](Executive/index.md#team) and hiring plan <!-- missing link -->
 
 ## [Development](Development/index.md)
 
 -   Unfilled Positions:
     -   Director of Development
-    -   Front End Engineer
-    -   Back end Engineer
-    -   Machine Learning Engineer
-    -   Product Owner/Manager
-    -   Platform Engineer (creates api’s or rewrites code to work on other platforms)
-    -   Quality Assurance Engineer
-    -   DevOps Engineer
-    -   Hardware Engineer/Expert
-    -   Security Engineer
-    <!-- check on this hierarchy. i removed the software development middle level -->
+           <!-- Front End Engineer
+           Back end Engineer
+           Machine Learning Engineer
+           Product Owner/Manager
+           Platform Engineer (creates api’s or rewrites code to work on other platforms)
+           Quality Assurance Engineer
+           DevOps Engineer
+           Hardware Engineer/Expert
+           Security Engineer -->
+        <!-- check on this hierarchy. i removed the software development middle level -->
 
-Helpful links: Development team and hiring plan <!-- missing link -->
+Helpful links: [Development team](Development/index.md#development-team-bios) and hiring plan <!-- missing link -->
 
 ## [Finance](Finance/index.md)
 
 -   Unfilled positions:
-    -   Director of Finances
-    -   Accountant
-    -   Data Analyst
+    -   Director of Finance
+    <!--   Accountant
+       Data Analyst -->
 
-Helpful links: Finance team and hiring plan <!-- missing link -->
+Helpful links: [Finance team](Finance/index.md#team) and hiring plan <!-- missing link -->
 
 ## [Sales](Sales/index.md)
 
 -   Unfilled positions:
     -   Director of Sales
-    -   writer
-    -   personality
-    -   videographer
-    -   video editor
+    <!--   writer
+       personality
+       videographer
+       video editor -->
 
-Helpful links: Sales team and hiring plan <!-- missing link -->
+Helpful links: [Sales team](Sales/index.md#team) and hiring plan <!-- missing link -->
 
 ## [Support](Support/index.md)
 
 -   Unfilled positions:
     -   Director of Support
-    -   Lawyer
-    -   Technical Support
-    -   Customer Service Specialist
-    -   human resources specialist
-    -   Information Technology Specialist
+    <!--   Lawyer
+       Technical Support
+       Customer Service Specialist
+       human resources specialist
+       Information Technology Specialist -->
 
-Helpful links: Support team and hiring plan <!-- missing link -->
+Helpful links: [Support team](Support/index.md#the-team) and hiring plan <!-- missing link -->
 
 How to edit:
 

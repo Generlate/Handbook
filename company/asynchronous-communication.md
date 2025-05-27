@@ -1,6 +1,6 @@
 # Asynchronous communication at Generlate
 
-Generlate is an **all-remote** company which means we work from home or office spaces, but do not have a physical office we all go to together. Moreover, we are also a **global company**, which means we are spread all over [the world](./team/locations.md). <!-- missing link--> So not only do we not share an office, most of the time, we don’t even share time zones. For this reason, we use **asynchronous (async)** forms of communication as much as possible and conduct synchronous meetings only when it’s really necessary.
+Generlate is an **all-remote** company which means we work from home or office spaces, but do not have a physical office we all go to together. Moreover, we are also a **global company**, which means we are spread all over <!-- add icon --> [the world](./team/locations.md). <!-- missing link--> So not only do we not share an office, most of the time, we don’t even share time zones. For this reason, we use **asynchronous (async)** forms of communication as much as possible and conduct synchronous meetings only when it’s really necessary.
 
 Async simply means that work doesn’t happen at the same time for everyone. Asynchronous communication allows us to move forward and make decisions without having to meet to talk with everyone involved. In this page you will read about why we are async, the tools we use at Generlate, and how we use them. We also explain how we communicate, tips on how to work asynchronously, and how we decide to be or not to be async.
 
@@ -42,7 +42,7 @@ https://console.cloud.google.com/storage/browser/generlate-assets/handbook/async
 
 #### Artifacts
 
-Asynchronous communication is most effective when there’s a place for communication to occur over time. We use [RFCs](../communication/rfcs/index.md), <!-- missing link --> Google Docs, GitHub issues, and Asana tasks as artifacts. Artifacts give us time to go away and give thoughtful consideration and can act as a record of how we [made decisions](../communication/decisions.md). <!-- missing link -->
+Asynchronous communication is most effective when there’s a place for communication to occur over time. We use [Requests For Comments (RFCs)](../communication/rfcs/index.md), <!-- missing link --> Google Docs,<!-- change to mcrosoft 365? --> GitHub issues, and azure devops tasks as artifacts. Artifacts give us time to go away and give thoughtful consideration and can act as a record of how we [made decisions](../communication/decisions.md). <!-- missing link -->
 
 Decisions are made in artifacts. While decisions can be initiated or discussed in synchronous sessions when it makes sense, **making** the decision in an artifact helps others to understand the context around the decision and provide feedback or ask questions in a self-contained space. It also avoids requiring people to be in the meetings themselves to participate in decision-making. Decisions discussed in synchronous meetings should be consciously shared with all interested parties, giving them the opportunity to share opinions and objections in the relevant artifact. Take some time to read about [how we make decisions at Generlate](../communication/decisions.md). <!-- missing link -->
 
@@ -50,7 +50,7 @@ Decisions are made in artifacts. While decisions can be initiated or discussed i
 
 Even though we use artifacts to communicate over time, it is important to note that they are not sources of truth. They are used during the creation and production process and are extremely rich in context, however, the final conclusion and what we share with everyone else must live in one of our [sources of truth](../communication/index.md#sources-of-truth). The information in these places is expected to be accurate and up-to-date.
 
-And remember: we are handbook-first. Google Docs, RFCs, GitHub issues, and Discord conversations are not considered sources of truth—they are ephemeral scratchpads in which decisions can be made, but nobody should be expected to read every RFC to learn how to do something. Regardless of where a decision was made (be it one of the artifacts or a meeting), it must be committed to the handbook.
+And remember: we are handbook-first. Google Docs, <!-- word docs? --> RFCs, GitHub issues, and Discord conversations are not considered sources of truth—they are ephemeral scratchpads in which decisions can be made, but nobody should be expected to read every RFC to learn how to do something. Regardless of where a decision was made (be it one of the artifacts or a meeting), it must be committed to the handbook.
 
 #### Discord
 
@@ -131,7 +131,7 @@ Each team should also have a section to explain how they do x, y and z asyncly. 
 
 <center>
 <object role="document" width="1133" height="1889" title="One pager: Async versus sync communication" data="onepager-async.svg" style="width: 80%"></object>
-</center>
+</center> <!-- what is this? -->
 
 Synchronous meetings are best for bonding and feeling connected to your teammates (even beyond your immediate team), sensitive discussions that are more likely to be emotionally sensitive, and fast decision making when speed necessarily outweighs the benefit of having marginal time/thoughtfulness. Our teammates generally simply enjoy synchronous meetings because they get to spend some quality time with the people they work with.
 

@@ -4,7 +4,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 -   [Editing the handbook](editing/index.md)
 -   [Handbook usage](usage.md)
--   Handbook feedback <!-- check if this should have a link or what-->
+<!-- Handbook feedback -->
 -   [What’s new in the handbook](https://github.com/Generlate/generlate-handbook/issues) (if you’d like to see diffs)
     <!-- check this link works-->
     <!-- figure out what should go in project root and what goes in the company directory-->
@@ -13,7 +13,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 <!-- make pages that should have subdirectories be a [name]/index.md directory and the others to be a [name].md. remove directories if not necessary-->
 
--   [All-remote](company/remote/index.md)
+-   [All Remote Guidelines](company/remote/index.md)
 -   [Asynchronous communication](company/asynchronous-communication.md)
 -   [Strategy](company/strategy/index.md)
 -   [Goals](company/goals/index.md)

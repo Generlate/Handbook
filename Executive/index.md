@@ -24,7 +24,7 @@
 
 ### Executive team members
 
--   [Austen Cabret](../company/team/index.md#debbie-johnstone-she-her), Director of People
+-   [Austen Cabret](../company/team/index.md#austen-cabre-he-him), Founder
 
 ### Executive team READMEs
 
