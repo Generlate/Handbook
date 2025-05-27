@@ -5,12 +5,12 @@ The org chart is generated automatically from team pages in the handbook ([need 
 ## [Executive](Executive/index.md)
 
 -   Unfilled positions:
-    -   Chief Financial Officer
-    -   Chief Development Officer
-    -   Chief Sales Officer
-    -   Chief Support Officer
+    -   Financial Director
+    -   Development Director
+    -   Sales Director
+    -   Support Director
 
-Helpful links: [Executive team](Executive/index.md#team) and hiring plan <!-- missing link -->
+Helpful links: [Executive team](Executive/index.md#team) and [hiring plan]() <!-- missing link -->
 
 ## [Development](Development/index.md)
 
@@ -27,7 +27,7 @@ Helpful links: [Executive team](Executive/index.md#team) and hiring plan <!-- mi
            Security Engineer -->
         <!-- check on this hierarchy. i removed the software development middle level -->
 
-Helpful links: [Development team](Development/index.md#development-team-bios) and hiring plan <!-- missing link -->
+Helpful links: [Development team](Development/index.md#development-team-bios) and [hiring plan]() <!-- missing link -->
 
 ## [Finance](Finance/index.md)
 
@@ -36,7 +36,7 @@ Helpful links: [Development team](Development/index.md#development-team-bios) an
     <!--   Accountant
        Data Analyst -->
 
-Helpful links: [Finance team](Finance/index.md#team) and hiring plan <!-- missing link -->
+Helpful links: [Finance team](Finance/index.md#team) and [hiring plan]() <!-- missing link -->
 
 ## [Sales](Sales/index.md)
 
@@ -47,7 +47,7 @@ Helpful links: [Finance team](Finance/index.md#team) and hiring plan <!-- missin
        videographer
        video editor -->
 
-Helpful links: [Sales team](Sales/index.md#team) and hiring plan <!-- missing link -->
+Helpful links: [Sales team](Sales/index.md#team) and [hiring plan]() <!-- missing link -->
 
 ## [Support](Support/index.md)
 
@@ -59,7 +59,7 @@ Helpful links: [Sales team](Sales/index.md#team) and hiring plan <!-- missing li
        human resources specialist
        Information Technology Specialist -->
 
-Helpful links: [Support team](Support/index.md#the-team) and hiring plan <!-- missing link -->
+Helpful links: [Support team](Support/index.md#the-team) and [hiring plan]() <!-- missing link -->
 
 How to edit:
 
