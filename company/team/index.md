@@ -19,8 +19,7 @@ For help adding yourself to this page, check out [these instructions](../../edit
 
 <!-- add person picture -->
 <!-- check where the position link is supposed to go to -->
-
-![Picture of Austen Cabret](https://www.generlate.com/_next/image?url=%2Fausten-cabret-profile.webp&w=828&q=75)
+<img src="https://www.generlate.com/_next/image?url=%2Fausten-cabret-profile.webp&w=828&q=75" alt="Picture of Austen Cabret" width="300" />
 
 -   [Founder, Director of Development, Director of Sales, Director of Support, Director of Finance]()
 -   Greenacres, FL, USA 🇺🇸
