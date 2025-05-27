@@ -8,6 +8,7 @@ For help adding yourself to this page, check out [these instructions](../../edit
 
 ## Full Name
 
+-   Picture
 -   Role(s)
 -   City, region, country, country flag emoji (optional: add yourself to [the team locations map](locations.md)!) <!-- missing link -->
 -   GitHub: username
@@ -17,9 +18,9 @@ For help adding yourself to this page, check out [these instructions](../../edit
 
 ## Austen Cabret
 
-<!-- add person picture -->
 <!-- check where the position link is supposed to go to -->
-<img src="https://www.generlate.com/_next/image?url=%2Fausten-cabret-profile.webp&w=828&q=75" alt="Picture of Austen Cabret" width="300" />
+
+<img src="https://www.generlate.com/_next/image?url=%2Fausten-cabret-profile.webp&w=828&q=75" alt="Picture of Austen Cabret" width="200" />
 
 -   [Founder, Director of Development, Director of Sales, Director of Support, Director of Finance]()
 -   Greenacres, FL, USA 🇺🇸
