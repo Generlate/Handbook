@@ -20,10 +20,9 @@ These places are the source of truth for information at Generlate. Information i
 -   [Roadmap](../product/index.md#roadmap) <!-- missing link; should this be to azure devops? I don't remember where but the roadmap is somewhere. might be that illustrator file, I need to convert to Blender -->
 -   [Issue tracker](https://github.com/Generlate/Generlate) <!-- why does this just go to generlate repo? -->
 -   [HubSpot](https://app.hubspot.com) (only contacts, not companies and deals) <!-- does generlate need a hubspot? -->
--   [Salesforce](https://Generlate2020.lightning.force.com/) <!-- Does Generlate need a HubSpot?>
+-   [Salesforce](https://Generlate2020.lightning.force.com/) <!-- Does Generlate need a HubSpot? -->
 -   [Looker](http://Generlate.looker.com/) <!-- Does Generlate need a Looker? -->
 -   [Customer legal contracts](https://drive.google.com/drive/folders/1ePvVWcZYdd1_3ZlCP5A0lvMbBhBCVfSm) <!-- ??? -->
--   [BambooHR](https://Generlate.bamboohr.com/) (org chart and teammate data) <!-- Delete this -->
 
 ### Scratchpads and ephemeral information (non-sources of truth)
 
@@ -49,11 +48,11 @@ The following places are not sources of truth. Treat documents and conversations
 -   Always end on time (or early).
     -   If there's more to discuss, handle it asynchronously or schedule a new meeting with the appropriate participants.
     -   A meeting that would run over is a nudge that the meeting's agenda or duration was wrong, or that the meeting was led ineffectively.
--   Remind people of your role in cross-functional meetings (including company meeting) or any other meeting that has team members you haven't met yet. We're growing, and it's hard to remember everyone's role! (The [org chart](../Org_Chart.md) helps.) <!-- missing link -->
+-   Remind people of your role in cross-functional meetings (including company meeting) or any other meeting that has team members you haven't met yet. We're growing, and it's hard to remember everyone's role! (The [org chart](../Org_Chart.md) helps.)
 
 #### Scheduling meetings with Google Calendar
 
-Before you start, please make sure you've [configured your Google Calendar settings](../people-ops/onboarding/general_onboarding.md#configure-google-calendar) as described in the onboarding guidelines. <!-- missing link -->
+Before you start, please make sure you've [configured your Google Calendar settings](../people-ops/onboarding/general_onboarding.md#configure-google-calendar) as described in the onboarding guidelines. <!-- missing link, change this to outlook/apple calendar -->
 
 -   When creating the Google Calendar event:
     -   Use the "Find a Time" feature to see when you and other meeting attendees are all available.
@@ -73,7 +72,7 @@ This assumes that currently the meeting has a Google Doc with notes that people 
     - Use this for a few weeks, and then...
 1. Everyone writes down their items by a certain time before the meeting (e.g., 12 hours before). Everyone reviews what other people wrote before the meeting starts. Only people who have commented on an item can make further comments on the topic during the discussion.
 
-> This idea is from [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC) (Chapter 12) by [@mattmochary](https://twitter.com/mattmochary). <!-- see if this can be a threads link -->
+> This idea is from [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC) (Chapter 12) by [@mattmochary](https://twitter.com/mattmochary).
 
 Structured meetings are great, but it's important to have casual, unscheduled, free-flowing time to chat with people as well. That helps build personal bonds and surface topics or ideas that might not come up in structured meetings.
 
@@ -168,20 +167,20 @@ Brain Food meetings are our internal knowledge sharing sessions. These meetings 
 -   Brainstorming session about an experimental subject
 -   Preparing an external talk
 
-If you have an idea for a session, add an event to the calendar and invite the engineering-team@generlate.com
+If you have an idea for a session, add an event to the calendar and invite the development@generlate.com
 
 ## Getting nice email signatures
 
-1. In Outlook **Settings** > **General** scroll down to signature: <!-- change these to actual outlook instructions -->
+1. In Outlook **Start a New Email** > **Insert** > **Signature** scroll down to signatures:
 
 ![image](https://user-images.githubusercontent.com/3173176/79911585-73112e80-83d5-11ea-85b3-929c20de72d6.png) <!-- this pic references sourcegraph -->
 
 2. Make the first line e.g. **Austen Cabret** (he/him)
 3. Make the second line your role, include any additional information you like on subsequent lines (socials, etc.)
-4. Choose **Insert image** and then **Web Address (URL)** and enter https://user-images.githubusercontent.com/3173176/115082082-2d892380-9eba-11eb-9606-6c4b9c4eb465.png then choose **Small** size after it has been entered.
+4. Choose **Insert image** and then **Web Address (URL)** and enter https://user-images.githubusercontent.com/3173176/115082082-2d892380-9eba-11eb-9606-6c4b9c4eb465.png <!-- change this for a generlate.com logo --> then choose **Small** size after it has been entered.
 5. Click the image, then click **Link** and paste https://generlate.com into the **Web Address** field. Now your image links to the website!
 6. Your signature should now look something like this, and clicking the Generlate logo should bring you to generlate.com:
-7. You may wish to add another line like `What is Universal Code Search? | We're hiring!` <!-- this line references sourcegraph --> with links to https://about.generlate.com/ <!-- missing link --> and https://handbook.generlate.com/careers. <!-- decide if I want a careers page, too early? -->
+7. You may wish to add another line like `What is Universal Code Search?` <!-- this line references sourcegraph --> with links to https://www.generlate.com/about
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/3173176/115082263-7a6cfa00-9eba-11eb-93ba-61b72de8b30b.png">
 <!-- this image references sourcegraph -->
