@@ -10,21 +10,20 @@ These places are the source of truth for information at Generlate. Information i
 
 <!-- TODO: make this match whatever Sphinx makes as the url -->
 
+<!-- should handbook be added to this list? -->
+
 -   [Documentation](https://www.generlate.com/docs)
 -   [Generlate/Generlate repository](https://github.com/Generlate/Generlate)
--   [Generlate/about repository](https://github.com/Generlate/Generlate) <!-- why are there two? references to the same repo-->
     -   [generlate.com/about](https://www.generlate.com/about)
     -   [Generlate handbook](../index.md)
     -   [Generlate YouTube Channel](https://www.youtube.com/@generlate/videos)
--   [Creating a working group for cross-team projects](working-group.md) <!-- missing link -->
--   [Roadmap](../product/index.md#roadmap) <!-- missing link -->
+-   [Roadmap](../product/index.md#roadmap) <!-- missing link; should this be to azure devops? I don't remember where but the roadmap is somewhere. might be that illustrator file, I need to convert to Blender -->
 -   [Issue tracker](https://github.com/Generlate/Generlate) <!-- why does this just go to generlate repo? -->
--   [productboard](https://Generlate.productboard.com/) <!-- Does Generlate need a product board?-->
 -   [HubSpot](https://app.hubspot.com) (only contacts, not companies and deals) <!-- does generlate need a hubspot? -->
 -   [Salesforce](https://Generlate2020.lightning.force.com/) <!-- Does Generlate need a HubSpot?>
 -   [Looker](http://Generlate.looker.com/) <!-- Does Generlate need a Looker? -->
 -   [Customer legal contracts](https://drive.google.com/drive/folders/1ePvVWcZYdd1_3ZlCP5A0lvMbBhBCVfSm) <!-- ??? -->
--   [BambooHR](https://Generlate.bamboohr.com/) (org chart and teammate data) <!-- Does Generlate need this? -->
+-   [BambooHR](https://Generlate.bamboohr.com/) (org chart and teammate data) <!-- Delete this -->
 
 ### Scratchpads and ephemeral information (non-sources of truth)
 
@@ -50,7 +49,7 @@ The following places are not sources of truth. Treat documents and conversations
 -   Always end on time (or early).
     -   If there's more to discuss, handle it asynchronously or schedule a new meeting with the appropriate participants.
     -   A meeting that would run over is a nudge that the meeting's agenda or duration was wrong, or that the meeting was led ineffectively.
--   Remind people of your role in cross-functional meetings (including company meeting) or any other meeting that has team members you haven't met yet. We're growing, and it's hard to remember everyone's role! (The [org chart](../company/team/org_chart.md) helps.) <!-- missing link -->
+-   Remind people of your role in cross-functional meetings (including company meeting) or any other meeting that has team members you haven't met yet. We're growing, and it's hard to remember everyone's role! (The [org chart](../Org_Chart.md) helps.) <!-- missing link -->
 
 #### Scheduling meetings with Google Calendar
 
