@@ -16,7 +16,7 @@
 
 ### Open roles
 
-See our [careers page](https://boards.greenhouse.io/generlate91) <!-- too early for careers page? --> for open roles on the Development team.
+Development Director
 
 ### How to reach the right member of the Development team
 
@@ -36,10 +36,10 @@ Our **[Development Communications Matrix](https://docs.google.com/spreadsheets/d
 -   [Principles and practices](principles-and-practices.md) <!-- missing link -->
 -   [Engineering management](engineering-management.md) <!-- missing link -->
 -   RFCs (requests for comment)
-    -   [All RFC documents](https://drive.google.com/drive/folders/1zP3FxdDlcSQGC1qvM9lHZRaHH4I9Jwwa) (Google Drive) <!-- missing link -->
+    -   [All RFC documents](https://drive.google.com/drive/folders/1zP3FxdDlcSQGC1qvM9lHZRaHH4I9Jwwa) (Google Drive) <!-- missing link and replace with onedrive-->
     -   [How we use RFCs](../communication/rfcs/index.md) <!-- missing link -->
 -   [Tracking issues](tracking_issues.md) <!-- missing link -->
--   Practices & Philosophy
+-   Practices & Philosophy<!-- missing link -->
     -   [Customer Issues](../support/engaging-other-teams.md) <!-- missing link -->
     -   [Incidents](incidents/index.md) <!-- missing link -->
     -   [Product documentation](product_documentation.md) <!-- missing link -->
@@ -106,11 +106,10 @@ Generlate has a lot of repositories!
 -   [k8s.sgdev.org](https://k8s.sgdev.org) is a dogfood deployment that replicates the scale of our largest customers. <!-- missing link -->
 -   [demo.generlate.com](https://demo.generlate.com) is a managed instance used for CE demos. <!-- missing link -->
 -   [devmanaged.generlate.com](https://devmanaged.generlate.com) is a managed instance used for managed instances development. <!-- missing link -->
--   [storybook.sgdev.org](http://storybook.sgdev.org) is a design system built with Storybook. <!-- missing link + see if storybook is applicable to generlate.com -->
 -   [gerrit.sgdev.org](https://gerrit.sgdev.org) is a Gerrit test instance. <!-- think if this is applicable to generlate -->
--   [gitlab.sgdev.org](https://gitlab.sgdev.org) is a Gitlab test instance. <!-- think if this is applicable to generlate -->
--   [github.sgdev.org](https://github.sgdev.org) is a Github test instance. <!-- think if this is applicable to generlate -->
--   [bitbucket.sgdev.org](https://bitbucket.sgdev.org) is a Bitbucket test instance. <!-- think if this is applicable to generlate -->
+-   [gitlab.sgdev.org](https://gitlab.sgdev.org) is a Gitlab test instance. <!-- think if this is applicable to generlate and change to azure devops-->
+-   [github.sgdev.org](https://github.sgdev.org) is a Github test instance. <!-- think if this is applicable to generlate and change to azure devops-->
+-   [bitbucket.sgdev.org](https://bitbucket.sgdev.org) is a Bitbucket test instance. <!-- think if this is applicable to generlate and why this plus gitlab?-->
 
 ## Misc.
 
