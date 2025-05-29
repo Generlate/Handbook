@@ -2,7 +2,7 @@
 
 Every Generlate teammate will be editing the Generlate handbook frequently to keep information up-to-date and participate in important changes in the company. This guide helps everyone learn how to edit the handbook.
 
-The handbook consists of Markdown files in the Git repository at [github.com/Generlate/handbook](https://github.com/Generlate/handbook/tree/main/content). ([Why not a wiki or Google Docs?](../usage.md#wiki-and-google-docs-handbooks-become-stale)) <!-- broken links -->
+The handbook consists of Markdown files in the Git repository at [github.com/Generlate/Handbook](https://github.com/Generlate/Handbook/tree/main/content).
 
 ## How to get help
 
@@ -10,7 +10,7 @@ We don't expect everyone on the team to figure this out on their own. Other team
 
 -   Any engineer at Generlate can help. (The _code_ that engineers write at Generlate also consists of files in a Git repository, so engineers are very familiar with making these kinds of edits.)
 -   [Teammates who have already made a handbook change](https://Generlate.com/github.com/Generlate/about/-/stats/contributors?path=handbook%2F) <!-- broken link--> can help.
--   **Handbook support**: Ask the @handbook-support group in Discord (formerly called "handbook heroes"), including @aharvey, @virginia, @ines, @jyavorska, @marybelzer, and @jean, for handbook help (via DM, #handbook, or #any-question). They volunteered to help anyone with anything handbook-related! _If you too want to be part of handbook support, simply edit this page, add your name to the list and ping @handbook-support in the #handbook channel to inform them_
+-   **Handbook support**: Ask the @handbook-support group in Discord (formerly called "handbook heroes"), including @aharvey, @virginia, @ines, @jyavorska, @marybelzer, and @jean, <!-- references sourcegraph  team --> for handbook help (via DM, #handbook, or #any-question). They volunteered to help anyone with anything handbook-related! _If you too want to be part of handbook support, simply edit this page, add your name to the list and ping @handbook-support in the #handbook channel to inform them_
 -   Ask in #handbook: "Who can screen-share with me to help me make an edit to the handbook?"
 -   Don't be afraid of breaking anything! It is very easy for any engineer on the team to roll back to the previous version of the handbook if you make a mistake.
 
@@ -22,7 +22,7 @@ We don't expect everyone on the team to figure this out on their own. Other team
 
 -   [Github Basics](../people-ops/onboarding/git_intro.md) <!-- missing link -->
 -   [Markdown Tips & Resources](markdown-resources.md) <!-- missing link -->
--   [Reviewing & Approving Another Peron's Proposal](reviewing-a-proposal.md) <!-- missing link -->
+-   [Reviewing & Approving Another Person's Proposal](reviewing-a-proposal.md) <!-- missing link -->
 -   [Announcing Important Updates](announcing-handbook-updates.md) <!-- missing link -->
 
 ## Editing

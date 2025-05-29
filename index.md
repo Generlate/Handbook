@@ -77,6 +77,5 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Legal](Support/index.md#Legal)
 -   [Internal Security](Support/index.md#Internal_Security)
 -   [Customer support](Support/index.md#Customer_support)
-    <!-- TODO: add icons -->
 
 <!-- TODO: after finishing this template version, download sourcegraph's latest handbook and see which improvements can be made to generlate-handbook -->

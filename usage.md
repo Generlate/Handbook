@@ -50,7 +50,7 @@ To be handbook-first, we need to be very diligent about maintaining the handbook
 
 ## Searching the handbook
 
-Search the handbook using the search box in the top navigation on https://handbook.generlate.com. <!-- missing link -->
+Search the handbook using the search box in the top navigation on https://handbook.generlate.com. <!-- missing link and there is no search box -->
 
 ### Chrome/Firefox search shortcut
 
@@ -111,3 +111,5 @@ pod "about-generlate-com-6d9b8dc9d5-llmh6" deleted
 ```
 
 You can access a console to execute the above commands via GCP: https://console.cloud.google.com/kubernetes/clusters/details/us-central1-f/cloud/details?project=generlate-dev
+
+<!-- im not using kubernetes -->
