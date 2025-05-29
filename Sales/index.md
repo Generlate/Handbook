@@ -1,4 +1,4 @@
-# Sales
+# 💳 Sales
 
 <!-- add team section -->
 

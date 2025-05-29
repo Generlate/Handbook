@@ -1,4 +1,4 @@
-# Finance
+# 🧮 Finance
 
 ## Financial terms and definitions
 

@@ -1,4 +1,4 @@
-# Support
+# 🤝 Support
 
 ## Legal
 
