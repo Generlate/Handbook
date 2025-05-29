@@ -36,7 +36,7 @@ The Sales team represents us and our values to customers, bringing back dollars 
 -   [Sales strategy & ops team](sales-ops/index.md) <!-- missing link -->
 -   [Sales interview process](interviews/index.md) <!-- missing link -->
 -   [Recording lead and customer emails, calls, and notes](records.md) <!-- missing link -->
--   [Using Salesforce](salesforce.md) <!-- missing link -->
+-   [Using Salesforce](salesforce.md) <!-- missing link and should this be shopify? stripe? deleted? -->
 -   [Sales Resources](salesresources.md) <!-- missing link -->
 -   [Engaging with Legal](saleslegal.md) <!-- missing link -->
 -   [Engaging with Security](salessecurity.md) <!-- missing link -->
@@ -45,7 +45,7 @@ The Sales team represents us and our values to customers, bringing back dollars 
 
 -   [Transactions](https://docs.google.com/spreadsheets/d/1Ao3Nqw6gH3yAuZtICV3xo35kKKnI9oKXnvPuTQ0Fh9c/edit#gid=0) <!-- missing link -->
 -   [FY21 plan](https://docs.google.com/spreadsheets/d/1EkZ7O69-2jbgtacoFDrY8L6rP73Hlqp_syyVCnmGAFA/edit#gid=1071026049) <!-- missing link -->
--   [Looker dashboard](https://generlate.looker.com/browse/boards/2) <!-- missing link -->
+-   [Looker dashboard](https://generlate.looker.com/browse/boards/2) <!-- missing link and decide what to do about looker -->
 
 ## Goals
 
@@ -55,7 +55,7 @@ Find the Sales (and the rest of the company's) FY22 OKRs [here](https://docs.goo
 
 Not all team members are reflected here yet. If you see yourself missing, please add yourself!
 
--   [Austen Cabret](../company/team/index.md#gregg-stone) (Director of Sales)
+-   [Austen Cabret](../company/team/index.md#austen-cabret) (Director of Sales)
 
 ### Roles
 
@@ -79,7 +79,7 @@ See [finance definitions](../finance/index.md#definitions) <!-- missing link -->
 A customer is an organization with a Generlate subscription contract that has not ended.
 
 1. We can only publicly mention the names of customers who have explicitly agreed to be referenceable.
-    - Customers mentioned on [about.generlate.com](https://about.generlate.com/) <!-- missing link --> (by logo and/or case study) are referenceable.
+    - Customers mentioned on [generlate.com/about](https://www.generlate.com/about) <!-- missing link --> (by logo and/or case study) are referenceable.
     - If in doubt about whether another customer is referenceable by name, ask in #sales.
 1. If an organization's contract will start in the future, they are still considered a customer. (This can happen when we agree to have a contract start on the next 1st of the month because that makes life easier for a customer, for example.)
 

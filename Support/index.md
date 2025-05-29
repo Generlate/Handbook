@@ -23,7 +23,7 @@ Customer Support at Generlate exists to resolve technical issues and answer tech
 -   Being flexible and open, maintaining a first principles thinking approach, and always confronting and growing past our biases
 -   Outgrowing ourselves, the way we work, and continuously improving
 
-Keeping our reason for existence and guiding principles in mind in all of our work and interactions, we ensure consistent outcomes, allowing each member of the team to have space and creativity to get there in different ways and learn from each other. When it is important that we do things consistently, we make sure to maintain our support section of the handbook. When we have knowledge to share, we ensure it’s reflected in [our official documentation](https://docs.Generlate.com/) so that customers have a single source of truth. <!-- missing link -->
+Keeping our reason for existence and guiding principles in mind in all of our work and interactions, we ensure consistent outcomes, allowing each member of the team to have space and creativity to get there in different ways and learn from each other. When it is important that we do things consistently, we make sure to maintain our support section of the handbook. When we have knowledge to share, we ensure it’s reflected in [our official documentation](https://www.generlate.com/docs) so that customers have a single source of truth.
 
 For additional context, check out [RFC 274](https://docs.google.com/document/d/1eLJmEVoD4H2s18gw65OCKSEX7ZQiG38FU_jU3UsrBKY/edit#), the starting vision for CS at Generlate. <!-- links to a google doc that references sourcegraph>
 

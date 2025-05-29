@@ -32,7 +32,10 @@
 
 ### Open roles
 
-See our [careers page](https://boards.greenhouse.io/generlate91) for open roles on the Executive team. <!-- too early for careers page? -->
+-   Finance Director
+-   Sales Director
+-   Development Director
+-   Support Director
 
 ### How to reach the right member of the Executive team
 
@@ -40,7 +43,7 @@ If you encounter a question at any point, we're here to help!
 
 Our **[Executive Communications Matrix](https://docs.google.com/spreadsheets/d/1JItBWbfKV9lr-LAmE19I0JMvu3Cvh0AdrEHDv-r1E2w/edit#gid=0)** <!-- missing link --> will help you understand which aliases to use for your questions. It will also ensure you get the right attention, from the right team member, faster. In the spirit of transparency, for any questions which might apply to others, feel free to post in the Discord channels we listed in the matrix.
 
-**U.S. based teammates** can contact our back office, Officengine, directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) <!-- this references sourcegraph --> form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the Executive team directly._
+**U.S. based teammates** can contact our back office, Officengine, <!-- replace or delete officengine --> directly about questions pertaining to **health insurance, dental insurance, vision insurance, life insurance, 401k, and payroll (including tax withholdings)**. To do this, use the [Generlate support request](https://docs.google.com/forms/d/e/1FAIpQLSecCNJDd8r26WxjOK0AHIGEV1gfzN_tRdYnXr2heIejLN-BUg/viewform) <!-- this references sourcegraph --> form to input requests and indicate their urgency. This form feeds into Officengine's ticketing system and alerts their team via email. _Questions about **PTO/leave, family planning support, professional development, travel, and moving** go to the Executive team directly._
 
 ### Meet the Generlate team
 
