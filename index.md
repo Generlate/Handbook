@@ -1,11 +1,11 @@
-The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visibly because we are an [open company](company/index.md#open-company).
+The Generlate handbook describes how we (Generlate teammates) work. It’s publicly visible because we are an [open company](company/index.md#open-company).
 
 The handbook is a living document and we expect every teammate to propose improvements, changes, additions, and fixes to keep it continuously up-to-date and accurate.
 
 -   [Editing the handbook](editing/index.md)
 -   [Handbook usage](usage.md)
 <!-- Handbook feedback -->
--   [What’s new in the handbook](https://github.com/Generlate/generlate-handbook/issues) (if you’d like to see diffs)
+-   [What’s new in the handbook](https://github.com/Generlate/Handbook/issues) (if you’d like to see diffs)
     <!-- check this link works-->
     <!-- figure out what should go in project root and what goes in the company directory-->
 
@@ -26,24 +26,7 @@ The handbook is a living document and we expect every teammate to propose improv
 
 ## Teams at Generlate
 
-### [Development](Development/index.md)
-
--   [Team](Development/index.md#Team) <!-- check on this link -->
--   [Strategy](Development/index.md#Strategy)
--   [Product](Development/index.md#Product)
-    -   [Product Management](Development/index.md#Product_Management)
-    -   [Product Design](Development/index.md#Product_Design)
--   [Engineering](Development/index.md#Engineering)
-    -   [Engineering orgs and teams](Development/index.md#Engineering_orgs_and_teams)
--   [Security](Development/index.md#Security)
-
-### [Finance](Finance/index.md)
-
--   [Team](Finance/index.md#Team) <!-- check on this link -->
--   [Financial terms and definitions](Finance/index.md#Financial_terms_and_definitions)
--   [Accounting](Finance/index.md#Accounting)
-
-### [Executive](Executive/index.md)
+### [💼 Executive](Executive/index.md)
 
 -   [Team](Executive/index.md#Team)
 -   [Goals](Executive/index.md#Goals)
@@ -56,7 +39,24 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Resources for teammates](Executive/index.md#Resources_for_teammates)
 -   [Resources for recruiters](Executive/index.md#Resources_for_recruiters)
 
-### [Sales](Sales/index.md)
+### [⚙️ Development](Development/index.md)
+
+-   [Team](Development/index.md#Team) <!-- check on this link -->
+-   [Strategy](Development/index.md#Strategy)
+-   [Product](Development/index.md#Product)
+    -   [Product Management](Development/index.md#Product_Management)
+    -   [Product Design](Development/index.md#Product_Design)
+-   [Engineering](Development/index.md#Engineering)
+    -   [Engineering orgs and teams](Development/index.md#Engineering_orgs_and_teams)
+-   [Security](Development/index.md#Security)
+
+### [🧮 Finance](Finance/index.md)
+
+-   [Team](Finance/index.md#Team) <!-- check on this link -->
+-   [Financial terms and definitions](Finance/index.md#Financial_terms_and_definitions)
+-   [Accounting](Finance/index.md#Accounting)
+
+### [💳 Sales](Sales/index.md)
 
 -   [Team](Sales/index.md#Team)
 -   [Sales strategy & operations](Sales/index.md#Sales_strategy_&_operations)
@@ -71,13 +71,12 @@ The handbook is a living document and we expect every teammate to propose improv
 -   [Brand](Sales/index.md#Brand)
 -   [Community Relations](Sales/index.md#Community_Relations)
 
-### [Support](Support/index.md)
+### [🤝 Support](Support/index.md)
 
 -   [Team](Support/index.md#Team)
 -   [Legal](Support/index.md#Legal)
 -   [Internal Security](Support/index.md#Internal_Security)
 -   [Customer support](Support/index.md#Customer_support)
-    <!-- TODO: swap departments for generlate's departments -->
     <!-- TODO: add icons -->
 
 <!-- TODO: after finishing this template version, download sourcegraph's latest handbook and see which improvements can be made to generlate-handbook -->
