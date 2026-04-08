@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/Generlate/model_generator/assets/85384584/93659fd6-ed44-44f0-b9bb-8124e0fe1966">
+  <img width="300" src="./icon.png">
 </p>
 
 Generlate is a generative tool for architecture design, on windows.
